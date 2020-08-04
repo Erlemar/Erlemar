@@ -6,6 +6,12 @@
 [![Habr Badge](https://img.shields.io/badge/-artgor-teal?style=flat&logo=kaggle&logoColor=deepblue&link=https://www.kaggle.com/artgor)](https://www.kaggle.com/artgor)
 ![Profile views](https://gpvc.arturio.dev/Erlemar)
 
+I'm economist by education and usually try to understand why things happen.
+
+For a long time I was fascinated by foreign languages and studied them: English (my native is Russian), German, Japanese, Spanish. You can find my learning notes in my old blog.
+
+Currently I'm Data Scientist and active Kaggler. 
+
 **Latest Blog Posts**
 
 ### Medium
@@ -24,6 +30,12 @@
 - [Анализ результатов 2018 Kaggle ML & DS Survey](https://habr.com/ru/post/434134/)
 - [Как сделать проект по распознаванию рукописных цифр с дообучением онлайн. Гайд для не совсем начинающих](https://habr.com/ru/post/335998/)
 <!-- HABR:END -->
+
+### Old blog: studying languages and various stuff
+- [Initial post about learning languages](https://erlemar.blogspot.com/2012/12/blog-post.html)
+<!-- OLD_BLOG:START -->
+<!-- OLD_BLOG:END -->
+
 
 ### My Github and StackOverflow stats
 [![andrey-lukyanenko StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6797250)](https://stackoverflow.com/users/6797250/andrey-lukyanenko) [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=erlemar)](https://github.com/anuraghazra/github-readme-stats)
