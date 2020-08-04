@@ -10,9 +10,11 @@ I'm economist by education and usually try to understand why things happen.
 
 For a long time I was fascinated by foreign languages and studied them: English (my native is Russian), German, Japanese, Spanish.
 
-Currently I'm Data Scientist and active Kaggler. 
+Currently I'm Data Scientist and active Kaggler.
 
 ![kaggle](https://i.imgur.com/1IrSJkh.png)
+
+[Here are some of my projects](https://erlemar.github.io/)
 
 **Latest Blog Posts**
 
