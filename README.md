@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+[![Twitter Follow](https://img.shields.io/twitter/follow/andlukyane?label=Follow)](https://twitter.com/andlukyane)
+[![Linkedin: andlukyane](https://img.shields.io/badge/-Andrey%20Lukyanenko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andlukyane/)](https://www.linkedin.com/in/andlukyane/)
 <!--
 **Erlemar/Erlemar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,10 +18,15 @@ Here are some ideas to get you started:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=erlemar)](https://github.com/anuraghazra/github-readme-stats)
 
 **Latest Blog Posts**
-<!-- BLOG-POST-LIST:START -->
 
-<!-- BLOG-POST-LIST:END -->
+### Medium
 
+<!-- MEDIUM:START -->
+<!-- MEDIUM:END -->
+
+### Habr (russian language)
+<!-- HABR:START -->
+<!-- HABR:END -->
 
 <!-- Actual text -->
 
