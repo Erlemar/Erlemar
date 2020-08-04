@@ -1,0 +1,23 @@
+name: Update blog posts
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+    
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: khaosdoctor/blog-post-workflow@master
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: MEDIUM
+          feed_list: "https://medium.com/feed/@artgor"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: HABR
+          feed_list: "https://habr.com/ru/users/Artgor/rss/posts/?fl=ru"
