@@ -34,6 +34,11 @@ Currently I'm Data Scientist and active Kaggler.
 ### Old blog: studying languages and various stuff
 - [Initial post about learning languages](https://erlemar.blogspot.com/2012/12/blog-post.html)
 <!-- OLD_BLOG:START -->
+- [A year of working as data scientist](https://erlemar.blogspot.com/2018/04/a-year-of-working-as-data-scientist.html)
+- [Some things change, others stay the same.](https://erlemar.blogspot.com/2018/03/some-things-change-others-stay-same.html)
+- [My results of 2017](https://erlemar.blogspot.com/2018/01/my-results-of-2017.html)
+- [Progress with machine learning](https://erlemar.blogspot.com/2017/08/progress-with-machine-learning.html)
+- [Learning. Machine learning.](https://erlemar.blogspot.com/2017/01/learning-machine-learning.html)
 <!-- OLD_BLOG:END -->
 
 
