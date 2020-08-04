@@ -12,6 +12,8 @@ For a long time I was fascinated by foreign languages and studied them: English 
 
 Currently I'm Data Scientist and active Kaggler. 
 
+![kaggle](https://i.imgur.com/1IrSJkh.png)
+
 **Latest Blog Posts**
 
 ### Medium
