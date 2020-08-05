@@ -16,9 +16,9 @@ Currently I'm Data Scientist and active Kaggler.
 
 [Here are some of my projects](https://erlemar.github.io/)
 
-**Latest Blog Posts**
+### Latest Blog Posts
 
-### Medium
+#### Medium
 
 <!-- MEDIUM:START -->
 - [What to do when you don’t get any medal in a Kaggle competition?](https://towardsdatascience.com/what-to-do-when-you-dont-get-any-medal-in-a-kaggle-competition-b54cc433da3?source=rss-26c63d12ebc9------2)
@@ -27,7 +27,7 @@ Currently I'm Data Scientist and active Kaggler.
 - [PyTorch Deep Learning Nanodegree: Deploying a Model](https://medium.com/datadriveninvestor/pytorch-deep-learning-nanodegree-deploying-a-model-b2a7f0ac0685?source=rss-26c63d12ebc9------2)
 <!-- MEDIUM:END -->
 
-### Habr (russian language)
+#### Habr (russian language)
 <!-- HABR:START -->
 - [Обзор на статью Visual Transformers — новый подход к тренировке моделей компьютерного зрения на основе visual tokens](https://habr.com/ru/post/512258/)
 - [Обзор на статью о FarSee-Net — новый подход к семантической сегментации в реальном времени](https://habr.com/ru/post/496650/)
