@@ -14,7 +14,7 @@ Currently I'm Data Scientist and active Kaggler.
 
 ![kaggle](https://i.imgur.com/1IrSJkh.png)
 
-[Here are some of my projects](https://erlemar.github.io/)
+Also I have a [portfolio](https://erlemar.github.io/) listing some of my projects, which include Kaggle kernels, pet-projects and other things.
 
 ### Latest Blog Posts
 
