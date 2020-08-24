@@ -35,5 +35,14 @@ Also I have a [portfolio](https://erlemar.github.io/) listing some of my project
 - [Как сделать проект по распознаванию рукописных цифр с дообучением онлайн. Гайд для не совсем начинающих](https://habr.com/ru/post/335998/)
 <!-- HABR:END -->
 
+### My talks/interviews
+- [ML Training talks about gold winning solution in Kaggle Predicting Molecular Properties Competition](https://www.youtube.com/watch?v=BXjSd3OxyDM)
+- [An overview of 2019 year in Kaggle, Talk in Russian at ODS.AI event](https://www.youtube.com/watch?v=LQhlZLTn84g)
+- [Data Halloween: predicting chaotic actions of clients. Talk in Russian at ODS.AI event](https://www.youtube.com/watch?v=hoo-VZ3Rd7Y)
+- [Storytelling with data visualization: case of kaggle kernels. Talk in Russian at Data Fest 2019](https://www.youtube.com/watch?v=fwnHN5Dsivo)
+- [Interview with Kaggle Kernels Grandmaster #1: Artgor | Andrew Lukyanenko. Chai Time Data Science](https://player.fm/series/chai-time-data-science/interview-with-kaggle-kernels-grandmaster-1-artgor-andrew-lukyanenko)
+- [Kaggle: People, We’ve Gamified Progress](https://www.machinecommons.org/post/kaggle-people-we-ve-gamified-progress)
+
+
 ### My Github and StackOverflow stats
 [![andrey-lukyanenko StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6797250)](https://stackoverflow.com/users/6797250/andrey-lukyanenko) [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=erlemar)](https://github.com/anuraghazra/github-readme-stats)
