@@ -42,7 +42,8 @@ Also I have a [portfolio](https://erlemar.github.io/) listing some of my project
 - [Storytelling with data visualization: case of kaggle kernels. Talk in Russian at Data Fest 2019](https://www.youtube.com/watch?v=fwnHN5Dsivo)
 - [Interview with Kaggle Kernels Grandmaster #1: Artgor | Andrew Lukyanenko. Chai Time Data Science](https://player.fm/series/chai-time-data-science/interview-with-kaggle-kernels-grandmaster-1-artgor-andrew-lukyanenko)
 - [Kaggle: People, We’ve Gamified Progress](https://www.machinecommons.org/post/kaggle-people-we-ve-gamified-progress)
-
+- [Andrey Lukyanenko - Handwritten digit recognition w/ a twist & topic modelling over time](https://www.youtube.com/watch?v=PX1RoRD3o7o)
+- [Pair Programming: Deep Learning Model For Drug Classification With Andrey Lukyanenko](https://www.youtube.com/watch?v=VRVit0-0AXE)
 
 ### My Github and StackOverflow stats
 [![andrey-lukyanenko StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6797250)](https://stackoverflow.com/users/6797250/andrey-lukyanenko) [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=erlemar)](https://github.com/anuraghazra/github-readme-stats)
