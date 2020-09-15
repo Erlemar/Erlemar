@@ -41,7 +41,7 @@ Also I have a [portfolio](https://erlemar.github.io/) listing some of my project
 - [An overview of 2019 year in Kaggle, Talk in Russian at ODS.AI event](https://www.youtube.com/watch?v=LQhlZLTn84g)
 - [Data Halloween: predicting chaotic actions of clients. Talk in Russian at ODS.AI event](https://www.youtube.com/watch?v=hoo-VZ3Rd7Y)
 - [Storytelling with data visualization: case of kaggle kernels. Talk in Russian at Data Fest 2019](https://www.youtube.com/watch?v=fwnHN5Dsivo)
-- [Interview with Kaggle Kernels Grandmaster #1: Artgor | Andrew Lukyanenko. Chai Time Data Science] (https://www.youtube.com/watch?v=rpClh8WmTdo) [player.fm link](https://player.fm/series/chai-time-data-science/interview-with-kaggle-kernels-grandmaster-1-artgor-andrew-lukyanenko)
+- [Interview with Kaggle Kernels Grandmaster #1: Artgor | Andrew Lukyanenko. Chai Time Data Science](https://www.youtube.com/watch?v=rpClh8WmTdo) | [player.fm link](https://player.fm/series/chai-time-data-science/interview-with-kaggle-kernels-grandmaster-1-artgor-andrew-lukyanenko)
 - [Kaggle: People, We’ve Gamified Progress](https://www.machinecommons.org/post/kaggle-people-we-ve-gamified-progress)
 - [Andrey Lukyanenko - Handwritten digit recognition w/ a twist & topic modelling over time](https://www.youtube.com/watch?v=PX1RoRD3o7o)
 - [Pair Programming: Deep Learning Model For Drug Classification With Andrey Lukyanenko](https://www.youtube.com/watch?v=VRVit0-0AXE)
