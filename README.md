@@ -45,6 +45,7 @@ Also I have a [portfolio](https://erlemar.github.io/) listing some of my project
 - [Kaggle: People, We’ve Gamified Progress](https://www.machinecommons.org/post/kaggle-people-we-ve-gamified-progress)
 - [Andrey Lukyanenko - Handwritten digit recognition w/ a twist & topic modelling over time](https://www.youtube.com/watch?v=PX1RoRD3o7o)
 - [Pair Programming: Deep Learning Model For Drug Classification With Andrey Lukyanenko](https://www.youtube.com/watch?v=VRVit0-0AXE)
+- [DataFest 2020 talk: My Kaggle Story](https://youtu.be/0U2Mj0MDa20)
 
 ### My Github and StackOverflow stats
 [![andrey-lukyanenko StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6797250)](https://stackoverflow.com/users/6797250/andrey-lukyanenko) [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=erlemar)](https://github.com/anuraghazra/github-readme-stats)
