@@ -46,6 +46,7 @@ Also I have a [portfolio](https://erlemar.github.io/) listing some of my project
 - [Andrey Lukyanenko - Handwritten digit recognition w/ a twist & topic modelling over time](https://www.youtube.com/watch?v=PX1RoRD3o7o)
 - [Pair Programming: Deep Learning Model For Drug Classification With Andrey Lukyanenko](https://www.youtube.com/watch?v=VRVit0-0AXE)
 - [DataFest 2020 talk: My Kaggle Story](https://youtu.be/0U2Mj0MDa20)
+- [Overview of approaches to "Mechanisms of Action (MoA) Prediction" competition on Kaggle (3 weeks before the end of the competition)](https://youtu.be/D7i67UT3O3o)
 
 ### My Github and StackOverflow stats
 [![andrey-lukyanenko StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6797250)](https://stackoverflow.com/users/6797250/andrey-lukyanenko) [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=erlemar)](https://github.com/anuraghazra/github-readme-stats)
