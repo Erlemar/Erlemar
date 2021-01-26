@@ -52,6 +52,8 @@ Also I have a [portfolio](https://erlemar.github.io/) listing some of my project
 - [Overview of approaches to "Mechanisms of Action (MoA) Prediction" competition on Kaggle (3 weeks before the end of the competition)](https://youtu.be/D7i67UT3O3o)
 - [Metro Analysis and Visualization](https://www.youtube.com/watch?v=yxtUnF78bBE&feature=emb_logo&ab_channel=ODSAIGlobal)
 - [Writing reusable pipelines in Deep Learning | Mindhack! Summit](https://www.youtube.com/watch?v=ZBG_lvhQm4g&feature=youtu.be&ab_channel=MindhackSummit)
+- [December Lightning Talks. Training pipeline with Pytorch Lightning and Hydra](https://youtu.be/MjURy6Ow5D8?t=1800)
+
 
 ### My Github and StackOverflow stats
 [![andrey-lukyanenko StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6797250)](https://stackoverflow.com/users/6797250/andrey-lukyanenko) [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=erlemar)](https://github.com/anuraghazra/github-readme-stats)
