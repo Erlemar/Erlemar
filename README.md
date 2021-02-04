@@ -56,6 +56,7 @@ Also I have a [portfolio](https://erlemar.github.io/) listing some of my project
 
 *2021:*
 - [Podcast talk about Kaggle, modern ML technologies, frameworks, hardware, and many other things](https://www.youtube.com/watch?v=n5aZBEnUHxc&feature=youtu.be&ab_channel=VishwasNarayan)
+- [Building your Data Science Career: how to become a data scientist](https://www.youtube.com/watch?v=-yfN7kMZj9I&feature=youtu.be&ab_channel=SetuChokshi)
 
 
 ### My Github and StackOverflow stats
