@@ -7,6 +7,9 @@
 [![Ods.ai Badge](https://img.shields.io/badge/-artgor-white?style=flat&logo=odsai&logoColor=crimson&link=hhttps://ods.ai/users/b5a93767c637)](https://ods.ai/users/b5a93767c637)
 ![Profile views](https://gpvc.arturio.dev/Erlemar)
 
+#### Important
+I have a full personal website now! You can find it [here](https://andlukyane.com/)
+
 I'm economist by education and usually try to understand why things happen.
 
 For a long time I was fascinated by foreign languages and studied them: English (my native is Russian), German, Japanese, Spanish.
