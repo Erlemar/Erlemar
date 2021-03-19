@@ -25,7 +25,7 @@ Also I have a [portfolio](https://erlemar.github.io/) listing some of my project
 #### Medium
 
 <!-- MEDIUM:START -->
-- [Data Science: can the job be fun or are we bound to face familiar problems every time](https://medium.com/@artgor/data-science-can-the-job-be-fun-or-are-we-bound-to-face-familiar-problems-every-time-dc2be0bc138d?source=rss-26c63d12ebc9------2)
+- [Data Science: can the job be fun or are we bound to face familiar problems every time](https://artgor.medium.com/data-science-can-the-job-be-fun-or-are-we-bound-to-face-familiar-problems-every-time-dc2be0bc138d?source=rss-26c63d12ebc9------2)
 - [What to do when you don’t get any medal in a Kaggle competition?](https://towardsdatascience.com/what-to-do-when-you-dont-get-any-medal-in-a-kaggle-competition-b54cc433da3?source=rss-26c63d12ebc9------2)
 - [A story of my first gold medal in one Kaggle competition: things done and lessons learned](https://towardsdatascience.com/a-story-of-my-first-gold-medal-in-one-kaggle-competition-things-done-and-lessons-learned-c269d9c233d1?source=rss-26c63d12ebc9------2)
 - [PyTorch Deep Learning Nanodegree: The end of this journey](https://medium.datadriveninvestor.com/pytorch-deep-learning-nanodegree-the-end-of-this-journey-5c1d6eeb0026?source=rss-26c63d12ebc9------2)
