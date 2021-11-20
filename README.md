@@ -14,9 +14,14 @@ I'm economist by education and usually try to understand why things happen.
 
 For a long time I was fascinated by foreign languages and studied them: English (my native is Russian), German, Japanese, Spanish.
 
-Currently I'm Data Scientist and active Kaggler.
+Currently I'm Data Scientist and an active Kaggler.
 
-![kaggle](https://i.imgur.com/1IrSJkh.png)
+<p align="center">
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/artgor/competition/light" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/artgor/dataset/light" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/artgor/notebook/light" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/artgor/discussion/light" />
+</p>
 
 Also I have a [portfolio](https://erlemar.github.io/) listing some of my projects, which include Kaggle kernels, pet-projects and other things.
 
