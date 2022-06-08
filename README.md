@@ -39,11 +39,11 @@ Also I have a [portfolio](https://erlemar.github.io/) listing some of my project
 
 #### Habr (russian language)
 <!-- HABR:START -->
+- [Как мы не смогли создать медицинского чат-бота. История проекта, который так и не увидел свет](https://habr.com/ru/post/670144/)
 - [Из экономистов в дата-сайнтисты или как стать лидером рейтинга Kaggle Notebooks](https://habr.com/ru/post/567678/)
 - [Обзор на статью Visual Transformers — новый подход к тренировке моделей компьютерного зрения на основе visual tokens](https://habr.com/ru/post/512258/)
 - [Обзор на статью о FarSee-Net — новый подход к семантической сегментации в реальном времени](https://habr.com/ru/post/496650/)
 - [Анализ результатов 2018 Kaggle ML &amp; DS Survey](https://habr.com/ru/post/434134/)
-- [Как сделать проект по распознаванию рукописных цифр с дообучением онлайн. Гайд для не совсем начинающих](https://habr.com/ru/post/335998/)
 <!-- HABR:END -->
 
 ### My talks/interviews
