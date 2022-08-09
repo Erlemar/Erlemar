@@ -30,11 +30,11 @@ Also I have a [portfolio](https://erlemar.github.io/) listing some of my project
 #### Medium
 
 <!-- MEDIUM:START -->
+- [Lessons learned after 10 years in IT](https://artgor.medium.com/lessons-learned-after-10-years-in-it-1489ad39280e?source=rss-26c63d12ebc9------2)
 - [NL-Augmenter: A Framework for Task-Sensitive Natural Language Augmentation](https://towardsdatascience.com/nl-augmenter-a-framework-for-task-sensitive-natural-language-augmentation-833c9d444ce2?source=rss-26c63d12ebc9------2)
 - [My mentoring experience in Data Science: lessons taught and learned](https://towardsdatascience.com/my-mentoring-experience-in-data-science-lessons-taught-and-learned-e7df0317f44c?source=rss-26c63d12ebc9------2)
 - [Data Science: can the job be fun or are we bound to face familiar problems every time](https://artgor.medium.com/data-science-can-the-job-be-fun-or-are-we-bound-to-face-familiar-problems-every-time-dc2be0bc138d?source=rss-26c63d12ebc9------2)
 - [What to do when you don’t get any medal in a Kaggle competition?](https://towardsdatascience.com/what-to-do-when-you-dont-get-any-medal-in-a-kaggle-competition-b54cc433da3?source=rss-26c63d12ebc9------2)
-- [A story of my first gold medal in one Kaggle competition: things done and lessons learned](https://towardsdatascience.com/a-story-of-my-first-gold-medal-in-one-kaggle-competition-things-done-and-lessons-learned-c269d9c233d1?source=rss-26c63d12ebc9------2)
 <!-- MEDIUM:END -->
 
 #### Habr (russian language)
