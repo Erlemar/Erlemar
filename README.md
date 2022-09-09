@@ -30,11 +30,11 @@ Also I have a [portfolio](https://erlemar.github.io/) listing some of my project
 #### Medium
 
 <!-- MEDIUM:START -->
+- [How We Tried to Create a Medical Chatbot](https://artgor.medium.com/how-we-tried-to-create-a-medical-chatbot-b500b44be10f?source=rss-26c63d12ebc9------2)
 - [Data Science Pet Projects. FAQ](https://artgor.medium.com/data-science-pet-projects-faq-2bf63f7f4fc9?source=rss-26c63d12ebc9------2)
 - [Lessons learned after 10 years in IT](https://artgor.medium.com/lessons-learned-after-10-years-in-it-1489ad39280e?source=rss-26c63d12ebc9------2)
 - [NL-Augmenter: A Framework for Task-Sensitive Natural Language Augmentation](https://towardsdatascience.com/nl-augmenter-a-framework-for-task-sensitive-natural-language-augmentation-833c9d444ce2?source=rss-26c63d12ebc9------2)
 - [My mentoring experience in Data Science: lessons taught and learned](https://towardsdatascience.com/my-mentoring-experience-in-data-science-lessons-taught-and-learned-e7df0317f44c?source=rss-26c63d12ebc9------2)
-- [Data Science: can the job be fun or are we bound to face familiar problems every time](https://artgor.medium.com/data-science-can-the-job-be-fun-or-are-we-bound-to-face-familiar-problems-every-time-dc2be0bc138d?source=rss-26c63d12ebc9------2)
 <!-- MEDIUM:END -->
 
 #### Habr (russian language)
