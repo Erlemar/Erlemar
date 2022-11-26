@@ -8,13 +8,13 @@
 ![Profile views](https://gpvc.arturio.dev/Erlemar)
 
 #### Important
-I have a full personal website now! You can find it [here](https://andlukyane.com/)
+I have a personal website now! You can find it [here](https://andlukyane.com/)
 
-I'm economist by education and usually try to understand why things happen.
+I'm an economist by education and usually try to understand why things happen.
 
-For a long time I was fascinated by foreign languages and studied them: English (my native is Russian), German, Japanese, Spanish.
+For a long time, I was fascinated by foreign languages and studied them: English (my native is Russian), German, Japanese, and Spanish.
 
-Currently I'm Data Scientist and an active Kaggler.
+Currently, I'm Data Scientist and an active Kaggler.
 
 <p align="center">
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/artgor/competition/light" />
@@ -23,7 +23,7 @@ Currently I'm Data Scientist and an active Kaggler.
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/artgor/discussion/light" />
 </p>
 
-Also I have a [portfolio](https://erlemar.github.io/) listing some of my projects, which include Kaggle kernels, pet-projects and other things.
+Also, I have a [portfolio](https://erlemar.github.io/) listing some of my projects, which include Kaggle kernels, pet-projects, and other things.
 
 ### Latest Blog Posts
 
