@@ -30,11 +30,11 @@ Also, I have a [portfolio](https://erlemar.github.io/) listing some of my projec
 #### Medium
 
 <!-- MEDIUM:START -->
+- [My language learning journey: the past, the current and the future](https://artgor.medium.com/my-language-learning-journey-the-past-the-current-and-the-future-de5ab55fb207?source=rss-26c63d12ebc9------2)
 - [The Third Life of a Personal Pet Project for Handwritten Digit Recognition](https://towardsdatascience.com/the-third-life-of-a-personal-pet-project-for-handwritten-digit-recognition-fd908dc8e7a1?source=rss-26c63d12ebc9------2)
 - [How We Tried to Create a Medical Chatbot](https://artgor.medium.com/how-we-tried-to-create-a-medical-chatbot-b500b44be10f?source=rss-26c63d12ebc9------2)
 - [Data Science Pet Projects. FAQ](https://artgor.medium.com/data-science-pet-projects-faq-2bf63f7f4fc9?source=rss-26c63d12ebc9------2)
 - [Lessons learned after 10 years in IT](https://artgor.medium.com/lessons-learned-after-10-years-in-it-1489ad39280e?source=rss-26c63d12ebc9------2)
-- [NL-Augmenter: A Framework for Task-Sensitive Natural Language Augmentation](https://towardsdatascience.com/nl-augmenter-a-framework-for-task-sensitive-natural-language-augmentation-833c9d444ce2?source=rss-26c63d12ebc9------2)
 <!-- MEDIUM:END -->
 
 #### Habr (russian language)
