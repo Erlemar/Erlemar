@@ -39,11 +39,11 @@ Also, I have a [portfolio](https://erlemar.github.io/) listing some of my projec
 
 #### Habr (russian language)
 <!-- HABR:START -->
-- [[Перевод] Мой путь изучения иностранных языков: прошлое, настоящее и будущее](https://habr.com/ru/post/719054/)
-- [Третья жизнь пет-проекта по распознаванию рукописных цифр](https://habr.com/ru/post/707046/)
-- [Как мы не смогли создать медицинского чат-бота. История проекта, который так и не увидел свет](https://habr.com/ru/post/670144/)
-- [Из экономистов в дата-сайнтисты или как стать лидером рейтинга Kaggle Notebooks](https://habr.com/ru/post/567678/)
-- [Обзор на статью Visual Transformers — новый подход к тренировке моделей компьютерного зрения на основе visual tokens](https://habr.com/ru/post/512258/)
+- [[Перевод] Мой путь изучения иностранных языков: прошлое, настоящее и будущее](https://habr.com/ru/articles/719054/)
+- [Третья жизнь пет-проекта по распознаванию рукописных цифр](https://habr.com/ru/companies/ods/articles/707046/)
+- [Как мы не смогли создать медицинского чат-бота. История проекта, который так и не увидел свет](https://habr.com/ru/companies/mts_ai/articles/670144/)
+- [Из экономистов в дата-сайнтисты или как стать лидером рейтинга Kaggle Notebooks](https://habr.com/ru/companies/ru_mts/articles/567678/)
+- [Обзор на статью Visual Transformers — новый подход к тренировке моделей компьютерного зрения на основе visual tokens](https://habr.com/ru/companies/ru_mts/articles/512258/)
 <!-- HABR:END -->
 
 ### My talks/interviews
