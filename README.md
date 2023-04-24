@@ -30,11 +30,11 @@ Also, I have a [portfolio](https://erlemar.github.io/) listing some of my projec
 #### Medium
 
 <!-- MEDIUM:START -->
+- [Paper Review: Generative Agents: Interactive Simulacra of Human Behavior](https://artgor.medium.com/paper-review-generative-agents-interactive-simulacra-of-human-behavior-cc5f8294b4ac?source=rss-26c63d12ebc9------2)
 - [Paper Review: DINOv2: Learning Robust Visual Features without Supervision](https://artgor.medium.com/paper-review-dinov2-learning-robust-visual-features-without-supervision-c56bd53b8e17?source=rss-26c63d12ebc9------2)
 - [Paper Review: Segment Anything](https://artgor.medium.com/paper-review-segment-anything-96d9838fd569?source=rss-26c63d12ebc9------2)
 - [Paper Review: BloombergGPT: A Large Language Model for Finance](https://betterprogramming.pub/paper-review-bloomberggpt-a-large-language-model-for-finance-39d771efdedc?source=rss-26c63d12ebc9------2)
 - [Paper review: Hyena Hierarchy: Towards Larger Convolutional Language Models](https://artgor.medium.com/paper-review-hyena-hierarchy-towards-larger-convolutional-language-models-e56b55232800?source=rss-26c63d12ebc9------2)
-- [Paper Review: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://artgor.medium.com/paper-review-visual-chatgpt-talking-drawing-and-editing-with-visual-foundation-models-e30694991e17?source=rss-26c63d12ebc9------2)
 <!-- MEDIUM:END -->
 
 #### Habr (russian language)
