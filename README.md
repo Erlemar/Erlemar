@@ -30,11 +30,11 @@ Also, I have a [portfolio](https://erlemar.github.io/) listing some of my projec
 #### Medium
 
 <!-- MEDIUM:START -->
+- [Paper Review: Phoenix: Democratizing ChatGPT across Languages](https://artgor.medium.com/paper-review-phoenix-democratizing-chatgpt-across-languages-4c73080c8254?source=rss-26c63d12ebc9------2)
 - [Paper Review: Scaling Transformer to 1M tokens and beyond with RMT](https://artgor.medium.com/paper-review-scaling-transformer-to-1m-tokens-and-beyond-with-rmt-5b846cecc0b2?source=rss-26c63d12ebc9------2)
 - [Paper Review: Speed Is All You Need: On-Device Acceleration of Large Diffusion Models via GPU-Aware…](https://artgor.medium.com/paper-review-speed-is-all-you-need-on-device-acceleration-of-large-diffusion-models-via-gpu-aware-c211bf1c66e6?source=rss-26c63d12ebc9------2)
 - [Paper Review: Generative Agents: Interactive Simulacra of Human Behavior](https://artgor.medium.com/paper-review-generative-agents-interactive-simulacra-of-human-behavior-cc5f8294b4ac?source=rss-26c63d12ebc9------2)
 - [Paper Review: DINOv2: Learning Robust Visual Features without Supervision](https://artgor.medium.com/paper-review-dinov2-learning-robust-visual-features-without-supervision-c56bd53b8e17?source=rss-26c63d12ebc9------2)
-- [Paper Review: Segment Anything](https://artgor.medium.com/paper-review-segment-anything-96d9838fd569?source=rss-26c63d12ebc9------2)
 <!-- MEDIUM:END -->
 
 #### Habr (russian language)
