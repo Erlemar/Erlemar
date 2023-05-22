@@ -30,11 +30,11 @@ Also, I have a [portfolio](https://erlemar.github.io/) listing some of my projec
 #### Medium
 
 <!-- MEDIUM:START -->
+- [Paper Review: Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold](https://artgor.medium.com/paper-review-drag-your-gan-interactive-point-based-manipulation-on-the-generative-image-manifold-1feb7cb72927?source=rss-26c63d12ebc9------2)
 - [Paper Review: DarkBERT: A Language Model for the Dark Side of the Internet](https://artgor.medium.com/paper-review-darkbert-a-language-model-for-the-dark-side-of-the-internet-679c6e2153ee?source=rss-26c63d12ebc9------2)
 - [Paper Review: NaturalSpeech 2: Latent Diffusion Models are Natural and Zero-Shot Speech and Singing…](https://artgor.medium.com/paper-review-naturalspeech-2-latent-diffusion-models-are-natural-and-zero-shot-speech-and-singing-dee8d4f2e23d?source=rss-26c63d12ebc9------2)
 - [Paper Review: ImageBind: One Embedding Space To Bind Them All](https://artgor.medium.com/paper-review-imagebind-one-embedding-space-to-bind-them-all-8819864e6a27?source=rss-26c63d12ebc9------2)
 - [Paper Review: Distilling Step-by-Step!](https://blog.gopenai.com/paper-review-distilling-step-by-step-7996f375cdb8?source=rss-26c63d12ebc9------2)
-- [Paper Review: Phoenix: Democratizing ChatGPT across Languages](https://artgor.medium.com/paper-review-phoenix-democratizing-chatgpt-across-languages-4c73080c8254?source=rss-26c63d12ebc9------2)
 <!-- MEDIUM:END -->
 
 #### Habr (russian language)
