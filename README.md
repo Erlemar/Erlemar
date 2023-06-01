@@ -30,11 +30,11 @@ Also, I have a [portfolio](https://erlemar.github.io/) listing some of my projec
 #### Medium
 
 <!-- MEDIUM:START -->
+- [Paper Review: QLoRA: Efficient Finetuning of Quantized LLMs](https://artgor.medium.com/paper-review-qlora-efficient-finetuning-of-quantized-llms-a3c857cd0cca?source=rss-26c63d12ebc9------2)
 - [Paper Review: Chain of Hindsight Aligns Language Models with Feedback](https://artgor.medium.com/paper-review-chain-of-hindsight-aligns-language-models-with-feedback-60b182656a46?source=rss-26c63d12ebc9------2)
 - [Paper Review: MMS: Scaling Speech Technology to 1000+ languages](https://artgor.medium.com/paper-review-mms-scaling-speech-technology-to-1000-languages-99d2f14e81eb?source=rss-26c63d12ebc9------2)
 - [Paper Review: Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold](https://artgor.medium.com/paper-review-drag-your-gan-interactive-point-based-manipulation-on-the-generative-image-manifold-1feb7cb72927?source=rss-26c63d12ebc9------2)
 - [Paper Review: DarkBERT: A Language Model for the Dark Side of the Internet](https://artgor.medium.com/paper-review-darkbert-a-language-model-for-the-dark-side-of-the-internet-679c6e2153ee?source=rss-26c63d12ebc9------2)
-- [Paper Review: NaturalSpeech 2: Latent Diffusion Models are Natural and Zero-Shot Speech and Singing…](https://artgor.medium.com/paper-review-naturalspeech-2-latent-diffusion-models-are-natural-and-zero-shot-speech-and-singing-dee8d4f2e23d?source=rss-26c63d12ebc9------2)
 <!-- MEDIUM:END -->
 
 #### Habr (russian language)
