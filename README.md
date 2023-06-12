@@ -30,11 +30,11 @@ Also, I have a [portfolio](https://erlemar.github.io/) listing some of my projec
 #### Medium
 
 <!-- MEDIUM:START -->
+- [Paper Review: BiomedGPT](https://artgor.medium.com/paper-review-biomedgpt-efd85f9dcd18?source=rss-26c63d12ebc9------2)
 - [Paper Review: StableRep: Synthetic Images from Text-to-Image Models Make Strong Visual…](https://artgor.medium.com/paper-review-stablerep-synthetic-images-from-text-to-image-models-make-strong-visual-2f531c452be?source=rss-26c63d12ebc9------2)
 - [Paper Review: The effectiveness of MAE pre-pretraining for billion-scale pertaining](https://artgor.medium.com/paper-review-the-effectiveness-of-mae-pre-pretraining-for-billion-scale-pertaining-8164501f77ee?source=rss-26c63d12ebc9------2)
 - [Paper Review: QLoRA: Efficient Finetuning of Quantized LLMs](https://blog.gopenai.com/paper-review-qlora-efficient-finetuning-of-quantized-llms-a3c857cd0cca?source=rss-26c63d12ebc9------2)
 - [Paper Review: Chain of Hindsight Aligns Language Models with Feedback](https://artgor.medium.com/paper-review-chain-of-hindsight-aligns-language-models-with-feedback-60b182656a46?source=rss-26c63d12ebc9------2)
-- [Paper Review: MMS: Scaling Speech Technology to 1000+ languages](https://artgor.medium.com/paper-review-mms-scaling-speech-technology-to-1000-languages-99d2f14e81eb?source=rss-26c63d12ebc9------2)
 <!-- MEDIUM:END -->
 
 #### Habr (russian language)
