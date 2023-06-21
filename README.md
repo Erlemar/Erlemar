@@ -5,7 +5,7 @@
 [![Habr Badge](https://img.shields.io/badge/-artgor-47CCCC?style=flat&logo=habr&logoColor=white&link=https://habr.com/ru/users/artgor/)](https://habr.com/ru/users/artgor/)
 [![Kaggle Badge](https://img.shields.io/badge/-artgor-teal?style=flat&logo=kaggle&logoColor=deepblue&link=https://www.kaggle.com/artgor)](https://www.kaggle.com/artgor)
 [![Ods.ai Badge](https://img.shields.io/badge/-artgor-white?style=flat&logo=odsai&logoColor=crimson&link=hhttps://ods.ai/users/b5a93767c637)](https://ods.ai/users/b5a93767c637)
-![Profile views](https://gpvc.arturio.dev/Erlemar)
+![Profile views](https://komarev.com/ghpvc/?username=erlemar)
 
 #### Important
 I have a personal website now! You can find it [here](https://andlukyane.com/)
@@ -15,13 +15,6 @@ I'm an economist by education and usually try to understand why things happen.
 For a long time, I was fascinated by foreign languages and studied them: English (my native is Russian), German, Japanese, and Spanish.
 
 Currently, I'm Data Scientist and an active Kaggler.
-
-<p align="center">
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/artgor/competition/light" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/artgor/dataset/light" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/artgor/notebook/light" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/artgor/discussion/light" />
-</p>
 
 Also, I have a [portfolio](https://erlemar.github.io/) listing some of my projects, which include Kaggle kernels, pet-projects, and other things.
 
