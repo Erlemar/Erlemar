@@ -23,11 +23,11 @@ Also, I have a [portfolio](https://erlemar.github.io/) listing some of my projec
 #### Medium
 
 <!-- MEDIUM:START -->
+- [Paper Review: Tracking Everything Everywhere All at Once](https://artgor.medium.com/paper-review-tracking-everything-everywhere-all-at-once-27caa13918bc?source=rss-26c63d12ebc9------2)
 - [Paper Review: Voicebox: Text-Guided Multilingual Universal Speech Generation at Scale](https://artgor.medium.com/paper-review-voicebox-text-guided-multilingual-universal-speech-generation-at-scale-9f2372059db9?source=rss-26c63d12ebc9------2)
 - [Paper Review: Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human…](https://artgor.medium.com/paper-review-principle-driven-self-alignment-of-language-models-from-scratch-with-minimal-human-688dbeaba9c6?source=rss-26c63d12ebc9------2)
 - [Paper Review: Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture](https://artgor.medium.com/paper-review-self-supervised-learning-from-images-with-a-joint-embedding-predictive-architecture-6e5608e543e8?source=rss-26c63d12ebc9------2)
 - [Paper Review: BiomedGPT](https://artgor.medium.com/paper-review-biomedgpt-efd85f9dcd18?source=rss-26c63d12ebc9------2)
-- [Paper Review: StableRep: Synthetic Images from Text-to-Image Models Make Strong Visual…](https://artgor.medium.com/paper-review-stablerep-synthetic-images-from-text-to-image-models-make-strong-visual-2f531c452be?source=rss-26c63d12ebc9------2)
 <!-- MEDIUM:END -->
 
 #### Habr (russian language)
