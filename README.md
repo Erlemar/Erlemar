@@ -23,11 +23,11 @@ Also, I have a [portfolio](https://erlemar.github.io/) listing some of my projec
 #### Medium
 
 <!-- MEDIUM:START -->
+- [Paper Review: UniverSeg: Universal Medical Image Segmentation](https://artgor.medium.com/paper-review-universeg-universal-medical-image-segmentation-76e634b07fea?source=rss-26c63d12ebc9------2)
 - [Paper Review: Recognize Anything: A Strong Image Tagging Model](https://artgor.medium.com/paper-review-recognize-anything-a-strong-image-tagging-model-9e5e1c6dd0af?source=rss-26c63d12ebc9------2)
 - [Paper Review: Hiera: A Hierarchical Vision Transformer without the Bells-and-Whistles](https://artgor.medium.com/paper-review-hiera-a-hierarchical-vision-transformer-without-the-bells-and-whistles-f5fd36ebe9b9?source=rss-26c63d12ebc9------2)
 - [Paper Review: Multilingual End to End Entity Linking](https://artgor.medium.com/paper-review-multilingual-end-to-end-entity-linking-59eaf433c5d8?source=rss-26c63d12ebc9------2)
 - [Paper Review: Fast Segment Anything](https://artgor.medium.com/paper-review-fast-segment-anything-912d198557ca?source=rss-26c63d12ebc9------2)
-- [Paper Review: Tracking Everything Everywhere All at Once](https://pub.aimind.so/paper-review-tracking-everything-everywhere-all-at-once-27caa13918bc?source=rss-26c63d12ebc9------2)
 <!-- MEDIUM:END -->
 
 #### Habr (russian language)
