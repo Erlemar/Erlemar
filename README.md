@@ -23,11 +23,11 @@ Also, I have a [portfolio](https://erlemar.github.io/) listing some of my projec
 #### Medium
 
 <!-- MEDIUM:START -->
+- [Paper Review: Meta-Transformer: A Unified Framework for Multimodal Learning](https://artgor.medium.com/paper-review-meta-transformer-a-unified-framework-for-multimodal-learning-256cc045c2b2?source=rss-26c63d12ebc9------2)
 - [Paper Review: Retentive Network: A Successor to Transformer for Large Language Models](https://artgor.medium.com/paper-review-retentive-network-a-successor-to-transformer-for-large-language-models-9a1e47785c9a?source=rss-26c63d12ebc9------2)
 - [Paper Review: Llama 2: Open Foundation and Fine-Tuned Chat Models](https://blog.gopenai.com/paper-review-llama-2-open-foundation-and-fine-tuned-chat-models-23e539522acb?source=rss-26c63d12ebc9------2)
 - [Paper Review: Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning](https://artgor.medium.com/paper-review-scaling-autoregressive-multi-modal-models-pretraining-and-instruction-tuning-37d6a9cbf968?source=rss-26c63d12ebc9------2)
 - [Paper Review: UniverSeg: Universal Medical Image Segmentation](https://artgor.medium.com/paper-review-universeg-universal-medical-image-segmentation-76e634b07fea?source=rss-26c63d12ebc9------2)
-- [Paper Review: Recognize Anything: A Strong Image Tagging Model](https://artgor.medium.com/paper-review-recognize-anything-a-strong-image-tagging-model-9e5e1c6dd0af?source=rss-26c63d12ebc9------2)
 <!-- MEDIUM:END -->
 
 #### Habr (russian language)
