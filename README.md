@@ -23,11 +23,11 @@ Also, I have a [portfolio](https://erlemar.github.io/) listing some of my projec
 #### Medium
 
 <!-- MEDIUM:START -->
+- [Paper Review: Tracking Anything in High Quality](https://artgor.medium.com/paper-review-tracking-anything-in-high-quality-92a095d6e46b?source=rss-26c63d12ebc9------2)
 - [Paper Review: TabR: Unlocking the Power of Retrieval-Augmented Tabular Deep Learning](https://artgor.medium.com/paper-review-tabr-unlocking-the-power-of-retrieval-augmented-tabular-deep-learning-ab85137958b9?source=rss-26c63d12ebc9------2)
 - [Paper Review: Meta-Transformer: A Unified Framework for Multimodal Learning](https://artgor.medium.com/paper-review-meta-transformer-a-unified-framework-for-multimodal-learning-256cc045c2b2?source=rss-26c63d12ebc9------2)
 - [Paper Review: Retentive Network: A Successor to Transformer for Large Language Models](https://artgor.medium.com/paper-review-retentive-network-a-successor-to-transformer-for-large-language-models-9a1e47785c9a?source=rss-26c63d12ebc9------2)
 - [Paper Review: Llama 2: Open Foundation and Fine-Tuned Chat Models](https://blog.gopenai.com/paper-review-llama-2-open-foundation-and-fine-tuned-chat-models-23e539522acb?source=rss-26c63d12ebc9------2)
-- [Paper Review: Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning](https://artgor.medium.com/paper-review-scaling-autoregressive-multi-modal-models-pretraining-and-instruction-tuning-37d6a9cbf968?source=rss-26c63d12ebc9------2)
 <!-- MEDIUM:END -->
 
 #### Habr (russian language)
