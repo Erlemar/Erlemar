@@ -23,11 +23,11 @@ Also, I have a [portfolio](https://erlemar.github.io/) listing some of my projec
 #### Medium
 
 <!-- MEDIUM:START -->
+- [Paper Review: Open Problems and Fundamental Limitations of Reinforcement Learning from Human…](https://artgor.medium.com/paper-review-open-problems-and-fundamental-limitations-of-reinforcement-learning-from-human-3ce2025073e8?source=rss-26c63d12ebc9------2)
 - [Paper Review: UniversalNER: Targeted Distillation from Large Language Models for Open Named Entity…](https://blog.gopenai.com/paper-review-universalner-targeted-distillation-from-large-language-models-for-open-named-entity-e9f731a5f53b?source=rss-26c63d12ebc9------2)
 - [Paper Review: Skeleton-of-Thought: Large Language Models Can Do Parallel Decoding](https://artgor.medium.com/paper-review-skeleton-of-thought-large-language-models-can-do-parallel-decoding-a86b4e249e83?source=rss-26c63d12ebc9------2)
 - [Paper Review: Tracking Anything in High Quality](https://artgor.medium.com/paper-review-tracking-anything-in-high-quality-92a095d6e46b?source=rss-26c63d12ebc9------2)
 - [Paper Review: TabR: Unlocking the Power of Retrieval-Augmented Tabular Deep Learning](https://artgor.medium.com/paper-review-tabr-unlocking-the-power-of-retrieval-augmented-tabular-deep-learning-ab85137958b9?source=rss-26c63d12ebc9------2)
-- [Paper Review: Meta-Transformer: A Unified Framework for Multimodal Learning](https://artgor.medium.com/paper-review-meta-transformer-a-unified-framework-for-multimodal-learning-256cc045c2b2?source=rss-26c63d12ebc9------2)
 <!-- MEDIUM:END -->
 
 #### Habr (russian language)
