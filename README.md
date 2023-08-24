@@ -23,11 +23,11 @@ Also, I have a [portfolio](https://erlemar.github.io/) listing some of my projec
 #### Medium
 
 <!-- MEDIUM:START -->
+- [Paper Review: OBELISC: An Open Web-Scale Filtered Dataset of Interleaved Image-Text Documents](https://artgor.medium.com/paper-review-obelisc-an-open-web-scale-filtered-dataset-of-interleaved-image-text-documents-c25d01057947?source=rss-26c63d12ebc9------2)
 - [Paper Review: LISA: Reasoning Segmentation via Large Language Model](https://artgor.medium.com/paper-review-lisa-reasoning-segmentation-via-large-language-model-5ebfcbe3ebd0?source=rss-26c63d12ebc9------2)
 - [Paper Review: FastViT: A Fast Hybrid Vision Transformer using Structural Reparameterization](https://artgor.medium.com/paper-review-fastvit-a-fast-hybrid-vision-transformer-using-structural-reparameterization-80e6dd5d640a?source=rss-26c63d12ebc9------2)
 - [Paper Review: Open Problems and Fundamental Limitations of Reinforcement Learning from Human…](https://artgor.medium.com/paper-review-open-problems-and-fundamental-limitations-of-reinforcement-learning-from-human-3ce2025073e8?source=rss-26c63d12ebc9------2)
 - [Paper Review: UniversalNER: Targeted Distillation from Large Language Models for Open Named Entity…](https://blog.gopenai.com/paper-review-universalner-targeted-distillation-from-large-language-models-for-open-named-entity-e9f731a5f53b?source=rss-26c63d12ebc9------2)
-- [Paper Review: Skeleton-of-Thought: Large Language Models Can Do Parallel Decoding](https://artgor.medium.com/paper-review-skeleton-of-thought-large-language-models-can-do-parallel-decoding-a86b4e249e83?source=rss-26c63d12ebc9------2)
 <!-- MEDIUM:END -->
 
 #### Habr (russian language)
