@@ -23,11 +23,11 @@ Also, I have a [portfolio](https://erlemar.github.io/) listing some of my projec
 #### Medium
 
 <!-- MEDIUM:START -->
+- [Paper Review: Contrastive Feature Masking Open-Vocabulary Vision Transformer](https://artgor.medium.com/paper-review-contrastive-feature-masking-open-vocabulary-vision-transformer-4639d1bf7043?source=rss-26c63d12ebc9------2)
 - [Paper Review: RecMind: Large Language Model Powered Agent For Recommendation](https://artgor.medium.com/paper-review-recmind-large-language-model-powered-agent-for-recommendation-3889f01bcd72?source=rss-26c63d12ebc9------2)
 - [Paper Review: CoTracker: It is Better to Track Together](https://artgor.medium.com/paper-review-cotracker-it-is-better-to-track-together-1b48849d70d3?source=rss-26c63d12ebc9------2)
 - [Paper Review: Giraffe: Adventures in Expanding Context Lengths in LLMs](https://artgor.medium.com/paper-review-giraffe-adventures-in-expanding-context-lengths-in-llms-443ac6e0055e?source=rss-26c63d12ebc9------2)
 - [Paper Review: OBELISC: An Open Web-Scale Filtered Dataset of Interleaved Image-Text Documents](https://artgor.medium.com/paper-review-obelisc-an-open-web-scale-filtered-dataset-of-interleaved-image-text-documents-c25d01057947?source=rss-26c63d12ebc9------2)
-- [Paper Review: LISA: Reasoning Segmentation via Large Language Model](https://artgor.medium.com/paper-review-lisa-reasoning-segmentation-via-large-language-model-5ebfcbe3ebd0?source=rss-26c63d12ebc9------2)
 <!-- MEDIUM:END -->
 
 #### Habr (russian language)
