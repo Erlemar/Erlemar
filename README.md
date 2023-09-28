@@ -23,11 +23,11 @@ Also, I have a [portfolio](https://erlemar.github.io/) listing some of my projec
 #### Medium
 
 <!-- MEDIUM:START -->
+- [Paper Review: DreamLLM: Synergistic Multimodal Comprehension and Creation](https://artgor.medium.com/paper-review-dreamllm-synergistic-multimodal-comprehension-and-creation-13a238cfc0ed?source=rss-26c63d12ebc9------2)
 - [Paper Review: FreeU: Free Lunch in Diffusion U-Net](https://artgor.medium.com/paper-review-freeu-free-lunch-in-diffusion-u-net-5313494e9f24?source=rss-26c63d12ebc9------2)
 - [Paper Review: Connecting Large Language Models with Evolutionary Algorithms Yields Powerful Prompt…](https://artgor.medium.com/paper-review-connecting-large-language-models-with-evolutionary-algorithms-yields-powerful-prompt-6181b10a464?source=rss-26c63d12ebc9------2)
 - [Paper Review: SLiMe: Segment Like Me](https://artgor.medium.com/paper-review-slime-segment-like-me-b0d567837996?source=rss-26c63d12ebc9------2)
 - [Paper Review: TSMixer: An All-MLP Architecture for Time Series Forecasting](https://artgor.medium.com/paper-review-tsmixer-an-all-mlp-architecture-for-time-series-forecasting-346bdb5820a9?source=rss-26c63d12ebc9------2)
-- [Paper Review: Explaining grokking through circuit efficiency](https://artgor.medium.com/paper-review-explaining-grokking-through-circuit-efficiency-1f420d6aea5f?source=rss-26c63d12ebc9------2)
 <!-- MEDIUM:END -->
 
 #### Habr (russian language)
