@@ -23,7 +23,7 @@ Also, I have a [portfolio](https://erlemar.github.io/) listing some of my projec
 #### Medium
 
 <!-- MEDIUM:START -->
-- [Paper Review: QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models](https://artgor.medium.com/paper-review-qa-lora-quantization-aware-low-rank-adaptation-of-large-language-models-0bfc20edb05f?source=rss-26c63d12ebc9------2)
+- [Paper Review: QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models](https://blog.gopenai.com/paper-review-qa-lora-quantization-aware-low-rank-adaptation-of-large-language-models-0bfc20edb05f?source=rss-26c63d12ebc9------2)
 - [Paper Review: LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion Models](https://artgor.medium.com/paper-review-lavie-high-quality-video-generation-with-cascaded-latent-diffusion-models-2f0d4cffd35b?source=rss-26c63d12ebc9------2)
 - [Paper Review: DreamLLM: Synergistic Multimodal Comprehension and Creation](https://artgor.medium.com/paper-review-dreamllm-synergistic-multimodal-comprehension-and-creation-13a238cfc0ed?source=rss-26c63d12ebc9------2)
 - [Paper Review: FreeU: Free Lunch in Diffusion U-Net](https://artgor.medium.com/paper-review-freeu-free-lunch-in-diffusion-u-net-5313494e9f24?source=rss-26c63d12ebc9------2)
