@@ -23,11 +23,11 @@ Also, I have a [portfolio](https://erlemar.github.io/) listing some of my projec
 #### Medium
 
 <!-- MEDIUM:START -->
+- [Paper Review: PaLI-3 Vision Language Models: Smaller, Faster, Stronger](https://artgor.medium.com/paper-review-pali-3-vision-language-models-smaller-faster-stronger-0094b9d5a882?source=rss-26c63d12ebc9------2)
 - [KindleVocabToAnki app — importing words from your Kindle to Anki for language learning](https://artgor.medium.com/kindlevocabtoanki-app-importing-words-from-your-kindle-to-anki-for-language-learning-40e062bfc04e?source=rss-26c63d12ebc9------2)
 - [Paper Review: InstructRetro: Instruction Tuning post Retrieval-Augmented Pretraining](https://artgor.medium.com/paper-review-instructretro-instruction-tuning-post-retrieval-augmented-pretraining-6c3666bc024d?source=rss-26c63d12ebc9------2)
 - [Paper Review: Mistral 7B](https://artgor.medium.com/paper-review-mistral-7b-6acdf2f3132d?source=rss-26c63d12ebc9------2)
 - [Paper Review: Think before you speak: Training Language Models With Pause Tokens](https://artgor.medium.com/paper-review-think-before-you-speak-training-language-models-with-pause-tokens-a778de92bd26?source=rss-26c63d12ebc9------2)
-- [Paper Review: QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models](https://blog.gopenai.com/paper-review-qa-lora-quantization-aware-low-rank-adaptation-of-large-language-models-0bfc20edb05f?source=rss-26c63d12ebc9------2)
 <!-- MEDIUM:END -->
 
 #### Habr (russian language)
