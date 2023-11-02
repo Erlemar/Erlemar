@@ -23,11 +23,11 @@ Also, I have a [portfolio](https://erlemar.github.io/) listing some of my projec
 #### Medium
 
 <!-- MEDIUM:START -->
+- [Paper Review: SAM-CLIP: Merging Vision Foundation Models towards Semantic and Spatial Understanding](https://artgor.medium.com/paper-review-sam-clip-merging-vision-foundation-models-towards-semantic-and-spatial-understanding-b84f1c20e08d?source=rss-26c63d12ebc9------2)
 - [Paper Review: Zephyr: Direct Distillation of LM Alignment](https://artgor.medium.com/paper-review-zephyr-direct-distillation-of-lm-alignment-035191df982e?source=rss-26c63d12ebc9------2)
 - [Paper Review: Monarch Mixer: A Simple Sub-Quadratic GEMM-Based Architecture](https://artgor.medium.com/paper-review-monarch-mixer-a-simple-sub-quadratic-gemm-based-architecture-e640a387dfeb?source=rss-26c63d12ebc9------2)
 - [Paper Review: Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection](https://artgor.medium.com/paper-review-self-rag-learning-to-retrieve-generate-and-critique-through-self-reflection-3ae3ccac3c4e?source=rss-26c63d12ebc9------2)
 - [Paper Review: PaLI-3 Vision Language Models: Smaller, Faster, Stronger](https://artgor.medium.com/paper-review-pali-3-vision-language-models-smaller-faster-stronger-0094b9d5a882?source=rss-26c63d12ebc9------2)
-- [KindleVocabToAnki app — importing words from your Kindle to Anki for language learning](https://artgor.medium.com/kindlevocabtoanki-app-importing-words-from-your-kindle-to-anki-for-language-learning-40e062bfc04e?source=rss-26c63d12ebc9------2)
 <!-- MEDIUM:END -->
 
 #### Habr (russian language)
