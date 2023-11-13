@@ -23,11 +23,11 @@ Also, I have a [portfolio](https://erlemar.github.io/) listing some of my projec
 #### Medium
 
 <!-- MEDIUM:START -->
+- [Paper Review: Spoken Question Answering and Speech Continuation Using Spectrogram-Powered LLM](https://artgor.medium.com/paper-review-spoken-question-answering-and-speech-continuation-using-spectrogram-powered-llm-28a540bbbe3d?source=rss-26c63d12ebc9------2)
 - [Paper Review: CogVLM: Visual Expert for Pretrained Language Models](https://artgor.medium.com/paper-review-cogvlm-visual-expert-for-pretrained-language-models-5ed620e71e50?source=rss-26c63d12ebc9------2)
 - [Paper Review: Collaborative Large Language Model for Recommender Systems](https://blog.gopenai.com/paper-review-collaborative-large-language-model-for-recommender-systems-17c5258d8332?source=rss-26c63d12ebc9------2)
 - [Paper Review: SAM-CLIP: Merging Vision Foundation Models towards Semantic and Spatial Understanding](https://artgor.medium.com/paper-review-sam-clip-merging-vision-foundation-models-towards-semantic-and-spatial-understanding-b84f1c20e08d?source=rss-26c63d12ebc9------2)
 - [Paper Review: Zephyr: Direct Distillation of LM Alignment](https://artgor.medium.com/paper-review-zephyr-direct-distillation-of-lm-alignment-035191df982e?source=rss-26c63d12ebc9------2)
-- [Paper Review: Monarch Mixer: A Simple Sub-Quadratic GEMM-Based Architecture](https://artgor.medium.com/paper-review-monarch-mixer-a-simple-sub-quadratic-gemm-based-architecture-e640a387dfeb?source=rss-26c63d12ebc9------2)
 <!-- MEDIUM:END -->
 
 #### Habr (russian language)
