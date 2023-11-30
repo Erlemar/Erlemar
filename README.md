@@ -23,11 +23,11 @@ Also, I have a [portfolio](https://erlemar.github.io/) listing some of my projec
 #### Medium
 
 <!-- MEDIUM:START -->
+- [Paper Review: Diffuse, Attend, and Segment: Unsupervised Zero-Shot Segmentation using Stable…](https://artgor.medium.com/paper-review-diffuse-attend-and-segment-unsupervised-zero-shot-segmentation-using-stable-326cb93678d2?source=rss-26c63d12ebc9------2)
 - [Paper Review: Diffusion Model Alignment Using Direct Preference Optimization](https://artgor.medium.com/paper-review-diffusion-model-alignment-using-direct-preference-optimization-cb6e75c0da0b?source=rss-26c63d12ebc9------2)
 - [Paper Review: Orca 2: Teaching Small Language Models How to Reason](https://artgor.medium.com/paper-review-orca-2-teaching-small-language-models-how-to-reason-7e35332a0b08?source=rss-26c63d12ebc9------2)
 - [Paper Review: Chain-of-Note: Enhancing Robustness in Retrieval-Augmented Language Models](https://artgor.medium.com/paper-review-chain-of-note-enhancing-robustness-in-retrieval-augmented-language-models-3b4e7fce188a?source=rss-26c63d12ebc9------2)
 - [Paper Review: Deep Learning for Day Forecasts from Sparse Observations](https://artgor.medium.com/paper-review-deep-learning-for-day-forecasts-from-sparse-observations-31c9539c750b?source=rss-26c63d12ebc9------2)
-- [Paper Review: Spoken Question Answering and Speech Continuation Using Spectrogram-Powered LLM](https://artgor.medium.com/paper-review-spoken-question-answering-and-speech-continuation-using-spectrogram-powered-llm-28a540bbbe3d?source=rss-26c63d12ebc9------2)
 <!-- MEDIUM:END -->
 
 #### Habr (russian language)
