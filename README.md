@@ -23,11 +23,11 @@ Also, I have a [portfolio](https://erlemar.github.io/) listing some of my projec
 #### Medium
 
 <!-- MEDIUM:START -->
+- [Paper Review: EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything](https://artgor.medium.com/paper-review-efficientsam-leveraged-masked-image-pretraining-for-efficient-segment-anything-0043ca74abea?source=rss-26c63d12ebc9------2)
 - [Paper Review: Translatotron 3: Speech to Speech Translation with Monolingual Data](https://artgor.medium.com/paper-review-translatotron-3-speech-to-speech-translation-with-monolingual-data-536aa8adf3c0?source=rss-26c63d12ebc9------2)
 - [Paper Review: Adversarial Diffusion Distillation](https://artgor.medium.com/paper-review-adversarial-diffusion-distillation-2db1b0748305?source=rss-26c63d12ebc9------2)
 - [Paper Review: Diffuse, Attend, and Segment: Unsupervised Zero-Shot Segmentation using Stable…](https://artgor.medium.com/paper-review-diffuse-attend-and-segment-unsupervised-zero-shot-segmentation-using-stable-326cb93678d2?source=rss-26c63d12ebc9------2)
 - [Paper Review: Diffusion Model Alignment Using Direct Preference Optimization](https://artgor.medium.com/paper-review-diffusion-model-alignment-using-direct-preference-optimization-cb6e75c0da0b?source=rss-26c63d12ebc9------2)
-- [Paper Review: Orca 2: Teaching Small Language Models How to Reason](https://artgor.medium.com/paper-review-orca-2-teaching-small-language-models-how-to-reason-7e35332a0b08?source=rss-26c63d12ebc9------2)
 <!-- MEDIUM:END -->
 
 #### Habr (russian language)
