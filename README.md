@@ -23,11 +23,11 @@ Also, I have a [portfolio](https://erlemar.github.io/) listing some of my projec
 #### Medium
 
 <!-- MEDIUM:START -->
+- [Paper Review: DocLLM: A layout-aware generative language model for multimodal document…](https://artgor.medium.com/paper-review-docllm-a-layout-aware-generative-language-model-for-multimodal-document-06b5833e976b?source=rss-26c63d12ebc9------2)
 - [Paper Review: StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation](https://artgor.medium.com/paper-review-streamdiffusion-a-pipeline-level-solution-for-real-time-interactive-generation-849d6481259a?source=rss-26c63d12ebc9------2)
 - [Paper Review: Pixel Aligned Language Models](https://artgor.medium.com/paper-review-pixel-aligned-language-models-547a1a1de521?source=rss-26c63d12ebc9------2)
 - [Paper Review: EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything](https://artgor.medium.com/paper-review-efficientsam-leveraged-masked-image-pretraining-for-efficient-segment-anything-0043ca74abea?source=rss-26c63d12ebc9------2)
 - [Paper Review: Translatotron 3: Speech to Speech Translation with Monolingual Data](https://artgor.medium.com/paper-review-translatotron-3-speech-to-speech-translation-with-monolingual-data-536aa8adf3c0?source=rss-26c63d12ebc9------2)
-- [Paper Review: Adversarial Diffusion Distillation](https://artgor.medium.com/paper-review-adversarial-diffusion-distillation-2db1b0748305?source=rss-26c63d12ebc9------2)
 <!-- MEDIUM:END -->
 
 #### Habr (russian language)
