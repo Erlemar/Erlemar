@@ -23,7 +23,7 @@ Also, I have a [portfolio](https://erlemar.github.io/) listing some of my projec
 #### Medium
 
 <!-- MEDIUM:START -->
-- [Paper Review: Scalable Pre-training of Large Autoregressive Image Models](https://artgor.medium.com/paper-review-scalable-pre-training-of-large-autoregressive-image-models-d3eacade64ee?source=rss-26c63d12ebc9------2)
+- [Paper Review: Scalable Pre-training of Large Autoregressive Image Models](https://blog.gopenai.com/paper-review-scalable-pre-training-of-large-autoregressive-image-models-d3eacade64ee?source=rss-26c63d12ebc9------2)
 - [Paper Review: Ferret: Refer and Ground Anything Anywhere at Any Granularity](https://artgor.medium.com/paper-review-ferret-refer-and-ground-anything-anywhere-at-any-granularity-82eb32cb5345?source=rss-26c63d12ebc9------2)
 - [Paper Review: DocLLM: A layout-aware generative language model for multimodal document…](https://artgor.medium.com/paper-review-docllm-a-layout-aware-generative-language-model-for-multimodal-document-06b5833e976b?source=rss-26c63d12ebc9------2)
 - [Paper Review: StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation](https://artgor.medium.com/paper-review-streamdiffusion-a-pipeline-level-solution-for-real-time-interactive-generation-849d6481259a?source=rss-26c63d12ebc9------2)
