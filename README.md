@@ -23,11 +23,11 @@ Also, I have a [portfolio](https://erlemar.github.io/) listing some of my projec
 #### Medium
 
 <!-- MEDIUM:START -->
+- [Paper Review: Lumiere: A Space-Time Diffusion Model for Video Generation](https://blog.gopenai.com/paper-review-lumiere-a-space-time-diffusion-model-for-video-generation-9b83076b03c7?source=rss-26c63d12ebc9------2)
 - [Paper Review: Scalable Pre-training of Large Autoregressive Image Models](https://blog.gopenai.com/paper-review-scalable-pre-training-of-large-autoregressive-image-models-d3eacade64ee?source=rss-26c63d12ebc9------2)
 - [Paper Review: Ferret: Refer and Ground Anything Anywhere at Any Granularity](https://artgor.medium.com/paper-review-ferret-refer-and-ground-anything-anywhere-at-any-granularity-82eb32cb5345?source=rss-26c63d12ebc9------2)
 - [Paper Review: DocLLM: A layout-aware generative language model for multimodal document…](https://artgor.medium.com/paper-review-docllm-a-layout-aware-generative-language-model-for-multimodal-document-06b5833e976b?source=rss-26c63d12ebc9------2)
 - [Paper Review: StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation](https://artgor.medium.com/paper-review-streamdiffusion-a-pipeline-level-solution-for-real-time-interactive-generation-849d6481259a?source=rss-26c63d12ebc9------2)
-- [Paper Review: Pixel Aligned Language Models](https://artgor.medium.com/paper-review-pixel-aligned-language-models-547a1a1de521?source=rss-26c63d12ebc9------2)
 <!-- MEDIUM:END -->
 
 #### Habr (russian language)
