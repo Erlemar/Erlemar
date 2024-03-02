@@ -23,7 +23,7 @@ Also, I have a [portfolio](https://erlemar.github.io/) listing some of my projec
 #### Medium
 
 <!-- MEDIUM:START -->
-- [Paper Review: YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information](https://towardsdatascience.com/paper-review-yolov9-learning-what-you-want-to-learn-using-programmable-gradient-information-8ec2e6e13551?source=rss-26c63d12ebc9------2)
+- [Paper Review: YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information](https://artgor.medium.com/paper-review-yolov9-learning-what-you-want-to-learn-using-programmable-gradient-information-8ec2e6e13551?source=rss-26c63d12ebc9------2)
 - [Paper Review: LiRank: Industrial Large Scale Ranking Models at LinkedIn](https://blog.gopenai.com/paper-review-lirank-industrial-large-scale-ranking-models-at-linkedin-60bc5d21a332?source=rss-26c63d12ebc9------2)
 - [Paper Review: Lag-Llama: Towards Foundation Models for Probabilistic Time Series Forecasting](https://artgor.medium.com/paper-review-lag-llama-towards-foundation-models-for-probabilistic-time-series-forecasting-d71cb8d0b0a0?source=rss-26c63d12ebc9------2)
 - [Paper Review: Lumiere: A Space-Time Diffusion Model for Video Generation](https://blog.gopenai.com/paper-review-lumiere-a-space-time-diffusion-model-for-video-generation-9b83076b03c7?source=rss-26c63d12ebc9------2)
