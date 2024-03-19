@@ -23,11 +23,11 @@ Also, I have a [portfolio](https://erlemar.github.io/) listing some of my projec
 #### Medium
 
 <!-- MEDIUM:START -->
+- [Paper Review: Personalized Audiobook Recommendations at Spotify Through Graph Neural Networks](https://artgor.medium.com/paper-review-personalized-audiobook-recommendations-at-spotify-through-graph-neural-networks-bd24cf0dd198?source=rss-26c63d12ebc9------2)
 - [Paper Review: NaturalSpeech 3: Zero-Shot Speech Synthesis with Factorized Codec and Diffusion…](https://artgor.medium.com/paper-review-naturalspeech-3-zero-shot-speech-synthesis-with-factorized-codec-and-diffusion-af88b97b3159?source=rss-26c63d12ebc9------2)
 - [Paper Review: Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language…](https://artgor.medium.com/paper-review-griffin-mixing-gated-linear-recurrences-with-local-attention-for-efficient-language-75e5a86b1b24?source=rss-26c63d12ebc9------2)
 - [Paper Review: YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information](https://artgor.medium.com/paper-review-yolov9-learning-what-you-want-to-learn-using-programmable-gradient-information-8ec2e6e13551?source=rss-26c63d12ebc9------2)
 - [Paper Review: LiRank: Industrial Large Scale Ranking Models at LinkedIn](https://blog.gopenai.com/paper-review-lirank-industrial-large-scale-ranking-models-at-linkedin-60bc5d21a332?source=rss-26c63d12ebc9------2)
-- [Paper Review: Lag-Llama: Towards Foundation Models for Probabilistic Time Series Forecasting](https://artgor.medium.com/paper-review-lag-llama-towards-foundation-models-for-probabilistic-time-series-forecasting-d71cb8d0b0a0?source=rss-26c63d12ebc9------2)
 <!-- MEDIUM:END -->
 
 #### Habr (russian language)
