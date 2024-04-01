@@ -23,11 +23,11 @@ Also, I have a [portfolio](https://erlemar.github.io/) listing some of my projec
 #### Medium
 
 <!-- MEDIUM:START -->
+- [Paper Review: Vision-RWKV: Efficient and Scalable Visual Perception with RWKV-Like Architectures](https://artgor.medium.com/paper-review-vision-rwkv-efficient-and-scalable-visual-perception-with-rwkv-like-architectures-9c6fa21a61e6?source=rss-26c63d12ebc9------2)
 - [Paper Review: Chronos: Learning the Language of Time Series](https://artgor.medium.com/paper-review-chronos-learning-the-language-of-time-series-edd79dd4fc96?source=rss-26c63d12ebc9------2)
 - [Paper Review: Personalized Audiobook Recommendations at Spotify Through Graph Neural Networks](https://artgor.medium.com/paper-review-personalized-audiobook-recommendations-at-spotify-through-graph-neural-networks-bd24cf0dd198?source=rss-26c63d12ebc9------2)
 - [Paper Review: NaturalSpeech 3: Zero-Shot Speech Synthesis with Factorized Codec and Diffusion…](https://artgor.medium.com/paper-review-naturalspeech-3-zero-shot-speech-synthesis-with-factorized-codec-and-diffusion-af88b97b3159?source=rss-26c63d12ebc9------2)
 - [Paper Review: Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language…](https://artgor.medium.com/paper-review-griffin-mixing-gated-linear-recurrences-with-local-attention-for-efficient-language-75e5a86b1b24?source=rss-26c63d12ebc9------2)
-- [Paper Review: YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information](https://artgor.medium.com/paper-review-yolov9-learning-what-you-want-to-learn-using-programmable-gradient-information-8ec2e6e13551?source=rss-26c63d12ebc9------2)
 <!-- MEDIUM:END -->
 
 #### Habr (russian language)
