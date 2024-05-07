@@ -23,11 +23,11 @@ Also, I have a [portfolio](https://erlemar.github.io/) listing some of my projec
 #### Medium
 
 <!-- MEDIUM:START -->
+- [Paper Review: FlowMind: Automatic Workflow Generation with LLMs](https://artgor.medium.com/paper-review-flowmind-automatic-workflow-generation-with-llms-2cbd5d5c380d?source=rss-26c63d12ebc9------2)
 - [Paper Review: Ferret-v2: An Improved Baseline for Referring and Grounding with Large Language…](https://artgor.medium.com/paper-review-ferret-v2-an-improved-baseline-for-referring-and-grounding-with-large-language-4aff89652225?source=rss-26c63d12ebc9------2)
 - [Paper Review: Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction](https://artgor.medium.com/paper-review-visual-autoregressive-modeling-scalable-image-generation-via-next-scale-prediction-059c759139aa?source=rss-26c63d12ebc9------2)
 - [Paper Review: Vision-RWKV: Efficient and Scalable Visual Perception with RWKV-Like Architectures](https://artgor.medium.com/paper-review-vision-rwkv-efficient-and-scalable-visual-perception-with-rwkv-like-architectures-9c6fa21a61e6?source=rss-26c63d12ebc9------2)
 - [Paper Review: Chronos: Learning the Language of Time Series](https://artgor.medium.com/paper-review-chronos-learning-the-language-of-time-series-edd79dd4fc96?source=rss-26c63d12ebc9------2)
-- [Paper Review: Personalized Audiobook Recommendations at Spotify Through Graph Neural Networks](https://artgor.medium.com/paper-review-personalized-audiobook-recommendations-at-spotify-through-graph-neural-networks-bd24cf0dd198?source=rss-26c63d12ebc9------2)
 <!-- MEDIUM:END -->
 
 #### Habr (russian language)
