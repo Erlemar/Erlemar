@@ -23,11 +23,11 @@ Also, I have a [portfolio](https://erlemar.github.io/) listing some of my projec
 #### Medium
 
 <!-- MEDIUM:START -->
+- [Paper Review: σ-GPTs: A New Approach to Autoregressive Models](https://artgor.medium.com/paper-review-%CF%83-gpts-a-new-approach-to-autoregressive-models-069bdd2bb596?source=rss-26c63d12ebc9------2)
 - [Paper Review: LiteVAE: Lightweight and Efficient Variational Autoencoders for Latent Diffusion…](https://artgor.medium.com/paper-review-litevae-lightweight-and-efficient-variational-autoencoders-for-latent-diffusion-1a2afb7bf9a8?source=rss-26c63d12ebc9------2)
 - [Paper Review: YOLOv10: Real-Time End-to-End Object Detection](https://artgor.medium.com/paper-review-yolov10-real-time-end-to-end-object-detection-a9730457a30f?source=rss-26c63d12ebc9------2)
 - [Paper Review: Chameleon: Mixed-Modal Early-Fusion Foundation Models](https://artgor.medium.com/paper-review-chameleon-mixed-modal-early-fusion-foundation-models-580eddb0b21b?source=rss-26c63d12ebc9------2)
 - [Paper Review: Visualization-of-Thought Elicits Spatial Reasoning in Large Language Models](https://artgor.medium.com/paper-review-visualization-of-thought-elicits-spatial-reasoning-in-large-language-models-25c1b3e98f0c?source=rss-26c63d12ebc9------2)
-- [Paper Review: FlowMind: Automatic Workflow Generation with LLMs](https://medium.com/llms-research/paper-review-flowmind-automatic-workflow-generation-with-llms-2cbd5d5c380d?source=rss-26c63d12ebc9------2)
 <!-- MEDIUM:END -->
 
 #### Habr (russian language)
