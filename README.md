@@ -23,11 +23,11 @@ Also, I have a [portfolio](https://erlemar.github.io/) listing some of my projec
 #### Medium
 
 <!-- MEDIUM:START -->
+- [Paper Review: Masked Attention is All You Need for Graphs](https://artgor.medium.com/paper-review-masked-attention-is-all-you-need-for-graphs-f49c545c3ecb?source=rss-26c63d12ebc9------2)
 - [Paper Review: RankRAG: Unifying Context Ranking with Retrieval-Augmented Generation in LLMs](https://artgor.medium.com/paper-review-rankrag-unifying-context-ranking-with-retrieval-augmented-generation-in-llms-7e5400ea74f2?source=rss-26c63d12ebc9------2)
 - [Paper Review: Unveiling Encoder-Free Vision-Language Models](https://artgor.medium.com/paper-review-unveiling-encoder-free-vision-language-models-a076436eb453?source=rss-26c63d12ebc9------2)
 - [Paper Review: Husky: A Unified, Open-Source Language Agent for Multi-Step Reasoning](https://artgor.medium.com/paper-review-husky-a-unified-open-source-language-agent-for-multi-step-reasoning-44fa15bb1131?source=rss-26c63d12ebc9------2)
 - [Paper Review: Samba: Simple Hybrid State Space Models for Efficient Unlimited Context Language…](https://artgor.medium.com/paper-review-samba-simple-hybrid-state-space-models-for-efficient-unlimited-context-language-69a00d4a3822?source=rss-26c63d12ebc9------2)
-- [Book Review: Accelerate Model Training with PyTorch 2.X](https://artgor.medium.com/book-review-accelerate-model-training-with-pytorch-2-x-8ebff68c81de?source=rss-26c63d12ebc9------2)
 <!-- MEDIUM:END -->
 
 #### Habr (russian language)
