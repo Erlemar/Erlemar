@@ -10,6 +10,8 @@
 #### Important
 I have a personal website now! You can find it [here](https://andlukyane.com/)
 
+And I have an [Obsidian project](https://dswok.com/) with my ML-related notes.
+
 I'm an economist by education and usually try to understand why things happen.
 
 For a long time, I was fascinated by foreign languages and studied them: English (my native is Russian), German, Japanese, and Spanish.
