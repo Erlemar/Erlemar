@@ -25,11 +25,11 @@ Also, I have a [portfolio](https://erlemar.github.io/) listing some of my projec
 #### Medium
 
 <!-- MEDIUM:START -->
+- [Book Review: Building Data-Driven Applications with LlamaIndex](https://artgor.medium.com/book-review-building-data-driven-applications-with-llamaindex-a3fb26f2b4ac?source=rss-26c63d12ebc9------2)
 - [Paper Review: Winning Amazon KDD Cup24](https://artgor.medium.com/paper-review-winning-amazon-kdd-cup24-0c4bdac187e2?source=rss-26c63d12ebc9------2)
 - [Paper Review: Wolf: Captioning Everything with a World Summarization Framework](https://artgor.medium.com/paper-review-wolf-captioning-everything-with-a-world-summarization-framework-dbc7ac8660cc?source=rss-26c63d12ebc9------2)
 - [Paper Review: Diffusion Feedback Helps CLIP See Better](https://artgor.medium.com/paper-review-diffusion-feedback-helps-clip-see-better-e6c68c188bc6?source=rss-26c63d12ebc9------2)
 - [Paper Review: Masked Attention is All You Need for Graphs](https://artgor.medium.com/paper-review-masked-attention-is-all-you-need-for-graphs-f49c545c3ecb?source=rss-26c63d12ebc9------2)
-- [Paper Review: RankRAG: Unifying Context Ranking with Retrieval-Augmented Generation in LLMs](https://artgor.medium.com/paper-review-rankrag-unifying-context-ranking-with-retrieval-augmented-generation-in-llms-7e5400ea74f2?source=rss-26c63d12ebc9------2)
 <!-- MEDIUM:END -->
 
 #### Habr (russian language)
