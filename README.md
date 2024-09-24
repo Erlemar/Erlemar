@@ -25,11 +25,11 @@ Also, I have a [portfolio](https://erlemar.github.io/) listing some of my projec
 #### Medium
 
 <!-- MEDIUM:START -->
+- [Paper Review: Training Language Models to Self-Correct via Reinforcement Learning](https://artgor.medium.com/paper-review-training-language-models-to-self-correct-via-reinforcement-learning-4f10785de819?source=rss-26c63d12ebc9------2)
 - [Book Review: Modern Graph Theory Algorithms with Python](https://artgor.medium.com/book-review-modern-graph-theory-algorithms-with-python-ca210ca99af9?source=rss-26c63d12ebc9------2)
 - [Paper Review: Loopy: Taming Audio-Driven Portrait Avatar with Long-Term Motion Dependency](https://artgor.medium.com/paper-review-loopy-taming-audio-driven-portrait-avatar-with-long-term-motion-dependency-4052173d452f?source=rss-26c63d12ebc9------2)
 - [Paper Review: Agentic Retrieval-Augmented Generation for Time Series Analysis](https://artgor.medium.com/paper-review-agentic-retrieval-augmented-generation-for-time-series-analysis-9c1eadd29a1a?source=rss-26c63d12ebc9------2)
 - [Book Review: Building Data-Driven Applications with LlamaIndex](https://artgor.medium.com/book-review-building-data-driven-applications-with-llamaindex-a3fb26f2b4ac?source=rss-26c63d12ebc9------2)
-- [Paper Review: Winning Amazon KDD Cup24](https://artgor.medium.com/paper-review-winning-amazon-kdd-cup24-0c4bdac187e2?source=rss-26c63d12ebc9------2)
 <!-- MEDIUM:END -->
 
 #### Habr (russian language)
