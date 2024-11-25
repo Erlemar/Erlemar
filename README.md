@@ -25,11 +25,11 @@ Also, I have a [portfolio](https://erlemar.github.io/) listing some of my projec
 #### Medium
 
 <!-- MEDIUM:START -->
+- [Paper Review: Project Sid: Many-agent simulations toward AI civilization](https://artgor.medium.com/paper-review-project-sid-many-agent-simulations-toward-ai-civilization-f9bb823510a8?source=rss-26c63d12ebc9------2)
 - [Paper Review: Large Language Models Orchestrating Structured Reasoning Achieve Kaggle Grandmaster…](https://artgor.medium.com/paper-review-large-language-models-orchestrating-structured-reasoning-achieve-kaggle-grandmaster-4ff8ab49deea?source=rss-26c63d12ebc9------2)
 - [Paper Review: Unbounded: A Generative Infinite Game of Character Life Simulation](https://artgor.medium.com/paper-review-unbounded-a-generative-infinite-game-of-character-life-simulation-2c6fc2409954?source=rss-26c63d12ebc9------2)
 - [Paper Review: Contextual Document Embeddings](https://artgor.medium.com/paper-review-contextual-document-embeddings-a527fed8206d?source=rss-26c63d12ebc9------2)
 - [Paper Review: Differential Transformer](https://artgor.medium.com/paper-review-differential-transformer-89a47bbb9700?source=rss-26c63d12ebc9------2)
-- [Paper Review: Depth Pro: Sharp Monocular Metric Depth in Less Than a Second](https://artgor.medium.com/paper-review-depth-pro-sharp-monocular-metric-depth-in-less-than-a-second-3f3cb7bea39a?source=rss-26c63d12ebc9------2)
 <!-- MEDIUM:END -->
 
 #### Habr (russian language)
