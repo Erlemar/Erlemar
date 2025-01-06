@@ -25,11 +25,11 @@ Also, I have a [portfolio](https://erlemar.github.io/) listing some of my projec
 #### Medium
 
 <!-- MEDIUM:START -->
+- [Paper Review: Training Large Language Models to Reason in a Continuous Latent Space](https://artgor.medium.com/paper-review-training-large-language-models-to-reason-in-a-continuous-latent-space-46f36b198e46?source=rss-26c63d12ebc9------2)
 - [Paper Review: Smarter, Better, Faster, Longer: A Modern Bidirectional Encoder for Fast, Memory…](https://artgor.medium.com/paper-review-smarter-better-faster-longer-a-modern-bidirectional-encoder-for-fast-memory-58ec1b0fc6da?source=rss-26c63d12ebc9------2)
 - [Paper Review: Byte Latent Transformer: Patches Scale Better Than Tokens](https://artgor.medium.com/paper-review-byte-latent-transformer-patches-scale-better-than-tokens-18539c34f177?source=rss-26c63d12ebc9------2)
 - [Paper Review: Reverse Thinking Makes LLMs Stronger Reasoners](https://artgor.medium.com/paper-review-reverse-thinking-makes-llms-stronger-reasoners-ceff83c857ef?source=rss-26c63d12ebc9------2)
 - [Paper Review: Project Sid: Many-agent simulations toward AI civilization](https://artgor.medium.com/paper-review-project-sid-many-agent-simulations-toward-ai-civilization-f9bb823510a8?source=rss-26c63d12ebc9------2)
-- [Paper Review: Large Language Models Orchestrating Structured Reasoning Achieve Kaggle Grandmaster…](https://artgor.medium.com/paper-review-large-language-models-orchestrating-structured-reasoning-achieve-kaggle-grandmaster-4ff8ab49deea?source=rss-26c63d12ebc9------2)
 <!-- MEDIUM:END -->
 
 #### Habr (russian language)
