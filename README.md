@@ -25,11 +25,11 @@ Also, I have a [portfolio](https://erlemar.github.io/) listing some of my projec
 #### Medium
 
 <!-- MEDIUM:START -->
+- [Paper Review: DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://artgor.medium.com/paper-review-deepseek-r1-incentivizing-reasoning-capability-in-llms-via-reinforcement-learning-edf4343dcf3a?source=rss-26c63d12ebc9------2)
 - [Paper Review: STAR: Spatial-Temporal Augmentation with Text-to-Video Models for Real-World Video…](https://artgor.medium.com/paper-review-star-spatial-temporal-augmentation-with-text-to-video-models-for-real-world-video-ff0ddcc6352f?source=rss-26c63d12ebc9------2)
 - [Paper Review: Training Large Language Models to Reason in a Continuous Latent Space](https://artgor.medium.com/paper-review-training-large-language-models-to-reason-in-a-continuous-latent-space-46f36b198e46?source=rss-26c63d12ebc9------2)
 - [Paper Review: Smarter, Better, Faster, Longer: A Modern Bidirectional Encoder for Fast, Memory…](https://artgor.medium.com/paper-review-smarter-better-faster-longer-a-modern-bidirectional-encoder-for-fast-memory-58ec1b0fc6da?source=rss-26c63d12ebc9------2)
 - [Paper Review: Byte Latent Transformer: Patches Scale Better Than Tokens](https://artgor.medium.com/paper-review-byte-latent-transformer-patches-scale-better-than-tokens-18539c34f177?source=rss-26c63d12ebc9------2)
-- [Paper Review: Reverse Thinking Makes LLMs Stronger Reasoners](https://artgor.medium.com/paper-review-reverse-thinking-makes-llms-stronger-reasoners-ceff83c857ef?source=rss-26c63d12ebc9------2)
 <!-- MEDIUM:END -->
 
 #### Habr (russian language)
