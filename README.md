@@ -25,11 +25,11 @@ Also, I have a [portfolio](https://erlemar.github.io/) listing some of my projec
 #### Medium
 
 <!-- MEDIUM:START -->
+- [Two Years of Studying and Practicing Foreign Languages](https://artgor.medium.com/two-years-of-studying-and-practicing-foreign-languages-8c89f11b2424?source=rss-26c63d12ebc9------2)
 - [Paper Review: NeoBERT: A Next-Generation BERT](https://artgor.medium.com/paper-review-neobert-a-next-generation-bert-eff9b219442a?source=rss-26c63d12ebc9------2)
 - [Paper Review: SigLIP 2: Multilingual Vision-Language Encoders with Improved Semantic Understanding…](https://artgor.medium.com/paper-review-siglip-2-multilingual-vision-language-encoders-with-improved-semantic-understanding-b7b578002adc?source=rss-26c63d12ebc9------2)
 - [Paper Review: Goku: Flow Based Video Generative Foundation Models](https://artgor.medium.com/paper-review-goku-flow-based-video-generative-foundation-models-b84efc9ae8ae?source=rss-26c63d12ebc9------2)
 - [Paper Review: Titans: Learning to Memorize at Test Time](https://artgor.medium.com/paper-review-titans-learning-to-memorize-at-test-time-c21d89a35215?source=rss-26c63d12ebc9------2)
-- [Paper Review: DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://artgor.medium.com/paper-review-deepseek-r1-incentivizing-reasoning-capability-in-llms-via-reinforcement-learning-edf4343dcf3a?source=rss-26c63d12ebc9------2)
 <!-- MEDIUM:END -->
 
 #### Habr (russian language)
