@@ -25,11 +25,11 @@ Also, I have a [portfolio](https://erlemar.github.io/) listing some of my projec
 #### Medium
 
 <!-- MEDIUM:START -->
+- [Paper Review: RWKV-7 “Goose” with Expressive Dynamic State Evolution](https://artgor.medium.com/paper-review-rwkv-7-goose-with-expressive-dynamic-state-evolution-5445b58f0f9b?source=rss-26c63d12ebc9------2)
 - [Paper Review: Audio Flamingo 2: An Audio-Language Model with Long-Audio Understanding and Expert…](https://artgor.medium.com/paper-review-audio-flamingo-2-an-audio-language-model-with-long-audio-understanding-and-expert-6f34f7b2c07c?source=rss-26c63d12ebc9------2)
 - [Paper Review: Large Language Diffusion Models](https://artgor.medium.com/paper-review-large-language-diffusion-models-d323f8182784?source=rss-26c63d12ebc9------2)
 - [Two Years of Studying and Practicing Foreign Languages](https://artgor.medium.com/two-years-of-studying-and-practicing-foreign-languages-8c89f11b2424?source=rss-26c63d12ebc9------2)
 - [Paper Review: NeoBERT: A Next-Generation BERT](https://artgor.medium.com/paper-review-neobert-a-next-generation-bert-eff9b219442a?source=rss-26c63d12ebc9------2)
-- [Paper Review: SigLIP 2: Multilingual Vision-Language Encoders with Improved Semantic Understanding…](https://artgor.medium.com/paper-review-siglip-2-multilingual-vision-language-encoders-with-improved-semantic-understanding-b7b578002adc?source=rss-26c63d12ebc9------2)
 <!-- MEDIUM:END -->
 
 #### Habr (russian language)
