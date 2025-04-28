@@ -25,11 +25,11 @@ Also, I have a [portfolio](https://erlemar.github.io/) listing some of my projec
 #### Medium
 
 <!-- MEDIUM:START -->
+- [Paper Review: AgentA/B: Automated and Scalable Web A/BTesting with Interactive LLM Agents](https://artgor.medium.com/paper-review-agenta-b-automated-and-scalable-web-a-btesting-with-interactive-llm-agents-4748d8aa13bd?source=rss-26c63d12ebc9------2)
 - [Paper Review: M1: Towards Scalable Test-Time Compute with Mamba Reasoning Models](https://artgor.medium.com/paper-review-m1-towards-scalable-test-time-compute-with-mamba-reasoning-models-94955cfd4267?source=rss-26c63d12ebc9------2)
 - [Paper Review: TextCrafter: Accurately Rendering Multiple Texts in Complex Visual Scenes](https://artgor.medium.com/paper-review-textcrafter-accurately-rendering-multiple-texts-in-complex-visual-scenes-f21fdc2ad281?source=rss-26c63d12ebc9------2)
 - [Paper Review: Video-T1: Test-Time Scaling for Video Generation](https://artgor.medium.com/paper-review-video-t1-test-time-scaling-for-video-generation-de8fde73801e?source=rss-26c63d12ebc9------2)
 - [Paper Review: RWKV-7 “Goose” with Expressive Dynamic State Evolution](https://artgor.medium.com/paper-review-rwkv-7-goose-with-expressive-dynamic-state-evolution-5445b58f0f9b?source=rss-26c63d12ebc9------2)
-- [Paper Review: Audio Flamingo 2: An Audio-Language Model with Long-Audio Understanding and Expert…](https://artgor.medium.com/paper-review-audio-flamingo-2-an-audio-language-model-with-long-audio-understanding-and-expert-6f34f7b2c07c?source=rss-26c63d12ebc9------2)
 <!-- MEDIUM:END -->
 
 #### Habr (russian language)
