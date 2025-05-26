@@ -25,11 +25,11 @@ Also, I have a [portfolio](https://erlemar.github.io/) listing some of my projec
 #### Medium
 
 <!-- MEDIUM:START -->
+- [Paper Review: Visual Planning: Let’s Think Only with Images](https://artgor.medium.com/paper-review-visual-planning-lets-think-only-with-images-e75bb26f32c4?source=rss-26c63d12ebc9------2)
 - [Paper Review: AlphaEvolve: A coding agent for scientific and algorithmic discovery](https://artgor.medium.com/paper-review-alphaevolve-a-coding-agent-for-scientific-and-algorithmic-discovery-5732a876c2e2?source=rss-26c63d12ebc9------2)
 - [Paper Review: AgentA/B: Automated and Scalable Web A/BTesting with Interactive LLM Agents](https://artgor.medium.com/paper-review-agenta-b-automated-and-scalable-web-a-btesting-with-interactive-llm-agents-4748d8aa13bd?source=rss-26c63d12ebc9------2)
 - [Paper Review: M1: Towards Scalable Test-Time Compute with Mamba Reasoning Models](https://artgor.medium.com/paper-review-m1-towards-scalable-test-time-compute-with-mamba-reasoning-models-94955cfd4267?source=rss-26c63d12ebc9------2)
 - [Paper Review: TextCrafter: Accurately Rendering Multiple Texts in Complex Visual Scenes](https://artgor.medium.com/paper-review-textcrafter-accurately-rendering-multiple-texts-in-complex-visual-scenes-f21fdc2ad281?source=rss-26c63d12ebc9------2)
-- [Paper Review: Video-T1: Test-Time Scaling for Video Generation](https://artgor.medium.com/paper-review-video-t1-test-time-scaling-for-video-generation-de8fde73801e?source=rss-26c63d12ebc9------2)
 <!-- MEDIUM:END -->
 
 #### Habr (russian language)
