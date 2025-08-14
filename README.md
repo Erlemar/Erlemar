@@ -25,11 +25,11 @@ Also, I have a [portfolio](https://erlemar.github.io/) listing some of my projec
 #### Medium
 
 <!-- MEDIUM:START -->
+- [My experience of searching for a job in 2024 as an MLE](https://artgor.medium.com/my-experience-of-searching-for-a-job-in-2024-as-an-mle-6d7f2851bd0b?source=rss-26c63d12ebc9------2)
 - [Paper Review: Group Sequence Policy Optimization](https://artgor.medium.com/paper-review-group-sequence-policy-optimization-543c3526c240?source=rss-26c63d12ebc9------2)
 - [Paper Review: Subliminal Learning: Language models transmit behavioral traits via hidden signals in…](https://artgor.medium.com/paper-review-subliminal-learning-language-models-transmit-behavioral-traits-via-hidden-signals-in-50cc8c3cc999?source=rss-26c63d12ebc9------2)
 - [Paper Review: ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large…](https://artgor.medium.com/paper-review-prorl-prolonged-reinforcement-learning-expands-reasoning-boundaries-in-large-10693a70ac55?source=rss-26c63d12ebc9------2)
 - [Paper Review: V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning](https://artgor.medium.com/paper-review-v-jepa-2-self-supervised-video-models-enable-understanding-prediction-and-planning-28410d8a1c6b?source=rss-26c63d12ebc9------2)
-- [Paper Review: Beyond the 80/20 Rule: High-Entropy Minority Tokens Drive Effective Reinforcement…](https://artgor.medium.com/paper-review-beyond-the-80-20-rule-high-entropy-minority-tokens-drive-effective-reinforcement-729ae1667554?source=rss-26c63d12ebc9------2)
 <!-- MEDIUM:END -->
 
 #### Habr (russian language)
