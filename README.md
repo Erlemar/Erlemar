@@ -25,11 +25,11 @@ Also, I have a [portfolio](https://erlemar.github.io/) listing some of my projec
 #### Medium
 
 <!-- MEDIUM:START -->
+- [Paper Review: Pref-GRPO: Pairwise Preference Reward-based GRPO for Stable Text-to-Image…](https://artgor.medium.com/paper-review-pref-grpo-pairwise-preference-reward-based-grpo-for-stable-text-to-image-f8a6945018ea?source=rss-26c63d12ebc9------2)
 - [Paper Review: DINOv3](https://artgor.medium.com/paper-review-dinov3-b0c6736afa8e?source=rss-26c63d12ebc9------2)
 - [My experience of searching for a job in 2024 as an MLE](https://artgor.medium.com/my-experience-of-searching-for-a-job-in-2024-as-an-mle-6d7f2851bd0b?source=rss-26c63d12ebc9------2)
 - [Paper Review: Group Sequence Policy Optimization](https://artgor.medium.com/paper-review-group-sequence-policy-optimization-543c3526c240?source=rss-26c63d12ebc9------2)
 - [Paper Review: Subliminal Learning: Language models transmit behavioral traits via hidden signals in…](https://artgor.medium.com/paper-review-subliminal-learning-language-models-transmit-behavioral-traits-via-hidden-signals-in-50cc8c3cc999?source=rss-26c63d12ebc9------2)
-- [Paper Review: ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large…](https://artgor.medium.com/paper-review-prorl-prolonged-reinforcement-learning-expands-reasoning-boundaries-in-large-10693a70ac55?source=rss-26c63d12ebc9------2)
 <!-- MEDIUM:END -->
 
 #### Habr (russian language)
