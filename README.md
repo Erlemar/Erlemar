@@ -25,11 +25,11 @@ Also, I have a [portfolio](https://erlemar.github.io/) listing some of my projec
 #### Medium
 
 <!-- MEDIUM:START -->
+- [Paper Review: The Dragon Hatchling: The Missing Link between the Transformer and Models of the…](https://artgor.medium.com/paper-review-the-dragon-hatchling-the-missing-link-between-the-transformer-and-models-of-the-48f31eae7513?source=rss-26c63d12ebc9------2)
 - [Paper Review: LongLive: Real-time Interactive Long Video Generation](https://artgor.medium.com/paper-review-longlive-real-time-interactive-long-video-generation-bbca6be051d8?source=rss-26c63d12ebc9------2)
 - [My experience of interview preparation as MLE](https://artgor.medium.com/my-experience-of-interview-preparation-as-mle-fe53627ba33e?source=rss-26c63d12ebc9------2)
 - [Paper Review: Sharing is Caring: Efficient LM Post-Training with Collective RL Experience Sharing](https://artgor.medium.com/paper-review-sharing-is-caring-efficient-lm-post-training-with-collective-rl-experience-sharing-cfb58e7c8fee?source=rss-26c63d12ebc9------2)
 - [Paper Review: Pref-GRPO: Pairwise Preference Reward-based GRPO for Stable Text-to-Image…](https://artgor.medium.com/paper-review-pref-grpo-pairwise-preference-reward-based-grpo-for-stable-text-to-image-f8a6945018ea?source=rss-26c63d12ebc9------2)
-- [Paper Review: DINOv3](https://artgor.medium.com/paper-review-dinov3-b0c6736afa8e?source=rss-26c63d12ebc9------2)
 <!-- MEDIUM:END -->
 
 #### Habr (russian language)
