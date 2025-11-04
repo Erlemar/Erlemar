@@ -25,7 +25,7 @@ Also, I have a [portfolio](https://erlemar.github.io/) listing some of my projec
 #### Medium
 
 <!-- MEDIUM:START -->
-- [Paper Review: Chronos-2: From Univariate to Universal Forecasting](https://artgor.medium.com/paper-review-chronos-2-from-univariate-to-universal-forecasting-3d929623e078?source=rss-26c63d12ebc9------2)
+- [Paper Review: Chronos-2: From Univariate to Universal Forecasting](https://blog.gopenai.com/paper-review-chronos-2-from-univariate-to-universal-forecasting-3d929623e078?source=rss-26c63d12ebc9------2)
 - [Paper Review: The Dragon Hatchling: The Missing Link between the Transformer and Models of the…](https://blog.gopenai.com/paper-review-the-dragon-hatchling-the-missing-link-between-the-transformer-and-models-of-the-48f31eae7513?source=rss-26c63d12ebc9------2)
 - [Paper Review: LongLive: Real-time Interactive Long Video Generation](https://artgor.medium.com/paper-review-longlive-real-time-interactive-long-video-generation-bbca6be051d8?source=rss-26c63d12ebc9------2)
 - [My experience of interview preparation as MLE](https://artgor.medium.com/my-experience-of-interview-preparation-as-mle-fe53627ba33e?source=rss-26c63d12ebc9------2)
