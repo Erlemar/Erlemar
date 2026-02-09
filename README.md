@@ -34,11 +34,11 @@ Also, I have a [portfolio](https://erlemar.github.io/) listing some of my projec
 
 #### Habr (russian language)
 <!-- HABR:START -->
-- [[Перевод] Мой путь изучения иностранных языков: прошлое, настоящее и будущее](https://habr.com/ru/articles/719054/?utm_campaign=719054&utm_source=habrahabr&utm_medium=rss)
-- [Третья жизнь пет-проекта по распознаванию рукописных цифр](https://habr.com/ru/companies/ods/articles/707046/?utm_campaign=707046&utm_source=habrahabr&utm_medium=rss)
-- [Как мы не смогли создать медицинского чат-бота. История проекта, который так и не увидел свет](https://habr.com/ru/companies/mts_ai/articles/670144/?utm_campaign=670144&utm_source=habrahabr&utm_medium=rss)
-- [Из экономистов в дата-сайнтисты или как стать лидером рейтинга Kaggle Notebooks](https://habr.com/ru/companies/ru_mts/articles/567678/?utm_campaign=567678&utm_source=habrahabr&utm_medium=rss)
-- [Обзор на статью Visual Transformers — новый подход к тренировке моделей компьютерного зрения на основе visual tokens](https://habr.com/ru/companies/ru_mts/articles/512258/?utm_campaign=512258&utm_source=habrahabr&utm_medium=rss)
+- [Технотекст 2022: шорт-листы по номинациям](https://habr.com/ru/companies/habr/articles/715670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715670)
+- [Рубрика «Читаем статьи за вас». Июль — август 2020 года](https://habr.com/ru/companies/ods/articles/523268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=523268)
+- [Рубрика «Читаем статьи за вас». Июнь 2020 года](https://habr.com/ru/companies/ods/articles/515688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=515688)
+- [Рубрика «Читаем статьи за вас». Май 2020. Часть 2](https://habr.com/ru/companies/ods/articles/507880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=507880)
+- [Рубрика «Читаем статьи за вас». Апрель 2020. Часть 2](https://habr.com/ru/companies/ods/articles/505040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=505040)
 <!-- HABR:END -->
 
 #### Personal Blog
