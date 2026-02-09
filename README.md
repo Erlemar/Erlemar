@@ -41,6 +41,10 @@ Also, I have a [portfolio](https://erlemar.github.io/) listing some of my projec
 - [Обзор на статью Visual Transformers — новый подход к тренировке моделей компьютерного зрения на основе visual tokens](https://habr.com/ru/companies/ru_mts/articles/512258/?utm_campaign=512258&utm_source=habrahabr&utm_medium=rss)
 <!-- HABR:END -->
 
+#### Personal Blog
+<!-- BLOG:START -->
+<!-- BLOG:END -->
+
 ### My talks/interviews
 *2019:*
 - [ML Training talks about gold winning solution in Kaggle Predicting Molecular Properties Competition](https://www.youtube.com/watch?v=BXjSd3OxyDM)
