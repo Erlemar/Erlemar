@@ -20,7 +20,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: HABR
-          feed_list: "https://habr.com/ru/rss/search/?q=Автор%3AArtgor"
+          feed_list: "https://habr.com/ru/rss/search/?q=%D0%90%D0%B2%D1%82%D0%BE%D1%80%3AArtgor"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: BLOG
