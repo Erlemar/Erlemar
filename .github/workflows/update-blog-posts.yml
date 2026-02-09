@@ -20,8 +20,8 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: HABR
-          feed_list: "https://habr.com/ru/users/Artgor/rss/posts/?fl=ru"
-#       - uses: gautamkrishnar/blog-post-workflow@master
-#         with:
-#           comment_tag_name: OLD_BLOG
-#           feed_list: "https://erlemar.blogspot.com/feeds/posts/default"
+          feed_list: "https://habr.com/ru/rss/search/?q=Автор%3AArtgor"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: BLOG
+          feed_list: "https://andlukyane.com/feed.xml"
