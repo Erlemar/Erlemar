@@ -25,11 +25,11 @@ Also, I have a [portfolio](https://erlemar.github.io/) listing some of my projec
 #### Medium
 
 <!-- MEDIUM:START -->
+- [Paper Review: PaperBanana: Automating Academic Illustration for AI Scientists](https://artgor.medium.com/paper-review-paperbanana-automating-academic-illustration-for-ai-scientists-92ca42411562?source=rss-26c63d12ebc9------2)
 - [Paper Review: mHC: Manifold-Constrained Hyper-Connections](https://artgor.medium.com/paper-review-mhc-manifold-constrained-hyper-connections-a96ce3641ea7?source=rss-26c63d12ebc9------2)
 - [Top-10 ML papers I read in 2025](https://artgor.medium.com/top-10-ml-papers-i-read-in-2025-83d8662321ab?source=rss-26c63d12ebc9------2)
 - [Paper Review: NitroGen: A Foundation Model for Generalist Gaming Agents](https://artgor.medium.com/paper-review-nitrogen-a-foundation-model-for-generalist-gaming-agents-4d535a2b1502?source=rss-26c63d12ebc9------2)
 - [Paper Review: SAM 3: Segment Anything with Concepts](https://artgor.medium.com/paper-review-sam-3-segment-anything-with-concepts-18e9501df00e?source=rss-26c63d12ebc9------2)
-- [Paper Review: HunyuanImage 3.0 Technical Report](https://artgor.medium.com/paper-review-hunyuanimage-3-0-technical-report-a1c8d9b1ef25?source=rss-26c63d12ebc9------2)
 <!-- MEDIUM:END -->
 
 #### Habr (russian language)
