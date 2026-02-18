@@ -25,7 +25,7 @@ Also, I have a [portfolio](https://erlemar.github.io/) listing some of my projec
 #### Medium
 
 <!-- MEDIUM:START -->
-- [Kimi k2.5 Review: Native Multimodality and Agent Swarms at 1 Trillion Parameters](https://artgor.medium.com/kimi-k2-5-review-native-multimodality-and-agent-swarms-at-1-trillion-parameters-df68e61083d2?source=rss-26c63d12ebc9------2)
+- [Kimi k2.5 Review: Native Multimodality and Agent Swarms at 1 Trillion Parameters](https://blog.gopenai.com/kimi-k2-5-review-native-multimodality-and-agent-swarms-at-1-trillion-parameters-df68e61083d2?source=rss-26c63d12ebc9------2)
 - [Paper Review: PaperBanana: Automating Academic Illustration for AI Scientists](https://artgor.medium.com/paper-review-paperbanana-automating-academic-illustration-for-ai-scientists-92ca42411562?source=rss-26c63d12ebc9------2)
 - [Paper Review: mHC: Manifold-Constrained Hyper-Connections](https://artgor.medium.com/paper-review-mhc-manifold-constrained-hyper-connections-a96ce3641ea7?source=rss-26c63d12ebc9------2)
 - [Top-10 ML papers I read in 2025](https://artgor.medium.com/top-10-ml-papers-i-read-in-2025-83d8662321ab?source=rss-26c63d12ebc9------2)
