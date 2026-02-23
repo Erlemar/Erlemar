@@ -43,11 +43,11 @@ Also, I have a [portfolio](https://erlemar.github.io/) listing some of my projec
 
 #### Personal Blog
 <!-- BLOG:START -->
-- [Paper Review: Kimi k2.5 Review: Native Multimodality and Agent Swarms at 1 Trillion Parameters](https://andlukyane.com//blog/paper-review-kimik25)
+- [Beyond Positional Bias: How DroPE Unlocks Zero-Shot Long Context in LLMs](https://andlukyane.com//blog/paper-review-drope)
+- [Kimi k2.5 Review: Native Multimodality and Agent Swarms at 1 Trillion Parameters](https://andlukyane.com//blog/paper-review-kimik25)
 - [Paper Review: PaperBanana: Automating Academic Illustration for AI Scientists](https://andlukyane.com//blog/paper-review-paperbanana)
 - [Paper Review: mHC: Manifold-Constrained Hyper-Connections](https://andlukyane.com//blog/paper-review-mhc)
 - [Top-10 ML papers I read in 2025](https://andlukyane.com//blog/overview-of-2025-papers)
-- [Paper Review: NitroGen: A Foundation Model for Generalist Gaming Agents](https://andlukyane.com//blog/paper-review-nitrogen)
 <!-- BLOG:END -->
 
 ### My talks/interviews
