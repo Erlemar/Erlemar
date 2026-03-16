@@ -43,11 +43,11 @@ Also, I have a [portfolio](https://erlemar.github.io/) listing some of my projec
 
 #### Personal Blog
 <!-- BLOG:START -->
+- [Collaborative Reinforcement Learning: Why HACRL Trains Models in Teams Instead of Isolation](https://andlukyane.com//blog/paper-review-haclr)
 - [Beyond Positional Bias: How DroPE Unlocks Zero-Shot Long Context in LLMs](https://andlukyane.com//blog/paper-review-drope)
 - [Kimi k2.5 Review: Native Multimodality and Agent Swarms at 1 Trillion Parameters](https://andlukyane.com//blog/paper-review-kimik25)
 - [Paper Review: PaperBanana: Automating Academic Illustration for AI Scientists](https://andlukyane.com//blog/paper-review-paperbanana)
 - [Paper Review: mHC: Manifold-Constrained Hyper-Connections](https://andlukyane.com//blog/paper-review-mhc)
-- [Top-10 ML papers I read in 2025](https://andlukyane.com//blog/overview-of-2025-papers)
 <!-- BLOG:END -->
 
 ### My talks/interviews
