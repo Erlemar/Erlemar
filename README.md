@@ -25,11 +25,11 @@ Also, I have a [portfolio](https://erlemar.github.io/) listing some of my projec
 #### Medium
 
 <!-- MEDIUM:START -->
+- [Book Review: Unlocking Data with Generative AI and RAG, Second Edition](https://artgor.medium.com/book-review-unlocking-data-with-generative-ai-and-rag-second-edition-26763880b5dc?source=rss-26c63d12ebc9------2)
 - [Book Review: A Practical Guide to Reinforcement Learning from Human Feedback](https://artgor.medium.com/book-review-a-practical-guide-to-reinforcement-learning-from-human-feedback-71c93a6c982a?source=rss-26c63d12ebc9------2)
 - [Collaborative Reinforcement Learning: Why HACRL Trains Models in Teams Instead of Isolation](https://artgor.medium.com/collaborative-reinforcement-learning-why-hacrl-trains-models-in-teams-instead-of-isolation-67fe28ca5abc?source=rss-26c63d12ebc9------2)
 - [Beyond Positional Bias: How DroPE Unlocks Zero-Shot Long Context in LLMs](https://artgor.medium.com/beyond-positional-bias-how-drope-unlocks-zero-shot-long-context-in-llms-43725a0385cf?source=rss-26c63d12ebc9------2)
 - [Kimi k2.5 Review: Native Multimodality and Agent Swarms at 1 Trillion Parameters](https://blog.gopenai.com/kimi-k2-5-review-native-multimodality-and-agent-swarms-at-1-trillion-parameters-df68e61083d2?source=rss-26c63d12ebc9------2)
-- [Paper Review: PaperBanana: Automating Academic Illustration for AI Scientists](https://artgor.medium.com/paper-review-paperbanana-automating-academic-illustration-for-ai-scientists-92ca42411562?source=rss-26c63d12ebc9------2)
 <!-- MEDIUM:END -->
 
 #### Habr (russian language)
