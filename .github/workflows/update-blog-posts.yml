@@ -4,7 +4,7 @@ on:
   schedule:
     # Runs every hour
     - cron: '0 12 * * *'
-    
+
 
 jobs:
   update-readme-with-blog:
@@ -12,15 +12,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: khaosdoctor/blog-post-workflow@master
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          comment_tag_name: MEDIUM
-          feed_list: "https://medium.com/feed/@artgor"
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          comment_tag_name: HABR
-          feed_list: "https://habr.com/ru/rss/search/?q=%D0%90%D0%B2%D1%82%D0%BE%D1%80%3AArtgor"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: BLOG

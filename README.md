@@ -1,47 +1,20 @@
-### Hello, I'm Andrey 👋
-[![Twitter Follow](https://img.shields.io/twitter/follow/andlukyane?label=Follow)](https://twitter.com/andlukyane)
-[![Linkedin: andlukyane](https://img.shields.io/badge/-Andrey%20Lukyanenko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andlukyane/)](https://www.linkedin.com/in/andlukyane/)
-[![Medium Badge](https://img.shields.io/badge/-artgor-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@artgor)](https://medium.com/@artgor)
-[![Habr Badge](https://img.shields.io/badge/-artgor-47CCCC?style=flat&logo=habr&logoColor=white&link=https://habr.com/ru/users/artgor/)](https://habr.com/ru/users/artgor/)
-[![Kaggle Badge](https://img.shields.io/badge/-artgor-teal?style=flat&logo=kaggle&logoColor=deepblue&link=https://www.kaggle.com/artgor)](https://www.kaggle.com/artgor)
-[![Ods.ai Badge](https://img.shields.io/badge/-artgor-white?style=flat&logo=odsai&logoColor=crimson&link=hhttps://ods.ai/users/b5a93767c637)](https://ods.ai/users/b5a93767c637)
-![Profile views](https://komarev.com/ghpvc/?username=erlemar)
+### Hi, I'm Andrey 👋
 
-#### Important
-I have a personal website now! You can find it [here](https://andlukyane.com/)
+[![Website](https://img.shields.io/badge/Website-andlukyane.com-4f46e5?style=flat-square&logo=jekyll&logoColor=white)](https://andlukyane.com/)
+[![Obsidian Notes](https://img.shields.io/badge/ML%20Notes-dswok.com-483699?style=flat-square&logo=obsidian&logoColor=white)](https://dswok.com/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-artgor-20beff?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/artgor)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrey%20Lukyanenko-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andlukyane/)
 
-And I have an [Obsidian project](https://dswok.com/) with my ML-related notes.
+I'm a Machine Learning Engineer at Meta in London. Kaggle Competition Master and Notebook Grandmaster (former #1 global notebook ranking). Google Developer Expert.
 
-I'm an economist by education and usually try to understand why things happen.
+Economist by ecucation, I moved into ML in 2017. Since then I've worked on churn, fraud, recommendations, video super-resolution, chat-bots, and ads at scale across telecom, banking, medical AI, ride-hailing, and big tech.
 
-For a long time, I was fascinated by foreign languages and studied them: English (my native is Russian), German, Japanese, and Spanish.
+- 🌐 Personal site: [andlukyane.com](https://andlukyane.com/) — bio, blog, projects.
+- 📚 ML notes (Obsidian vault): [dswok.com](https://dswok.com/)
+- 🎤 Talks & interviews: [andlukyane.com/activities#featured-talks](https://andlukyane.com/activities#featured-talks)
+- 📁 Older portfolio (2017-2021): [erlemar.github.io](https://erlemar.github.io/) — Kaggle kernels & pet projects.
 
-Currently, I'm Data Scientist and an active Kaggler.
-
-Also, I have a [portfolio](https://erlemar.github.io/) listing some of my projects, which include Kaggle kernels, pet-projects, and other things.
-
-### Latest Blog Posts
-
-#### Medium
-
-<!-- MEDIUM:START -->
-- [Book Review: Unlocking Data with Generative AI and RAG, Second Edition](https://artgor.medium.com/book-review-unlocking-data-with-generative-ai-and-rag-second-edition-26763880b5dc?source=rss-26c63d12ebc9------2)
-- [Book Review: A Practical Guide to Reinforcement Learning from Human Feedback](https://artgor.medium.com/book-review-a-practical-guide-to-reinforcement-learning-from-human-feedback-71c93a6c982a?source=rss-26c63d12ebc9------2)
-- [Collaborative Reinforcement Learning: Why HACRL Trains Models in Teams Instead of Isolation](https://artgor.medium.com/collaborative-reinforcement-learning-why-hacrl-trains-models-in-teams-instead-of-isolation-67fe28ca5abc?source=rss-26c63d12ebc9------2)
-- [Beyond Positional Bias: How DroPE Unlocks Zero-Shot Long Context in LLMs](https://artgor.medium.com/beyond-positional-bias-how-drope-unlocks-zero-shot-long-context-in-llms-43725a0385cf?source=rss-26c63d12ebc9------2)
-- [Kimi k2.5 Review: Native Multimodality and Agent Swarms at 1 Trillion Parameters](https://blog.gopenai.com/kimi-k2-5-review-native-multimodality-and-agent-swarms-at-1-trillion-parameters-df68e61083d2?source=rss-26c63d12ebc9------2)
-<!-- MEDIUM:END -->
-
-#### Habr (russian language)
-<!-- HABR:START -->
-- [Технотекст 2022: шорт-листы по номинациям](https://habr.com/ru/companies/habr/articles/715670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715670)
-- [Рубрика «Читаем статьи за вас». Июль — август 2020 года](https://habr.com/ru/companies/ods/articles/523268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=523268)
-- [Рубрика «Читаем статьи за вас». Июнь 2020 года](https://habr.com/ru/companies/ods/articles/515688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=515688)
-- [Рубрика «Читаем статьи за вас». Май 2020. Часть 2](https://habr.com/ru/companies/ods/articles/507880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=507880)
-- [Рубрика «Читаем статьи за вас». Апрель 2020. Часть 2](https://habr.com/ru/companies/ods/articles/505040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=505040)
-<!-- HABR:END -->
-
-#### Personal Blog
+### Latest blog posts
 <!-- BLOG:START -->
 - [Book Review: Unlocking Data with Generative AI and RAG, Second Edition](https://andlukyane.com//blog/book-review-unlocking-data-genai-rag)
 - [Book Review: A Practical Guide to Reinforcement Learning from Human Feedback](https://andlukyane.com//blog/book-review-rlhf)
@@ -49,29 +22,3 @@ Also, I have a [portfolio](https://erlemar.github.io/) listing some of my projec
 - [Collaborative Reinforcement Learning: Why HACRL Trains Models in Teams Instead of Isolation](https://andlukyane.com//blog/paper-review-haclr)
 - [Beyond Positional Bias: How DroPE Unlocks Zero-Shot Long Context in LLMs](https://andlukyane.com//blog/paper-review-drope)
 <!-- BLOG:END -->
-
-### My talks/interviews
-*2019:*
-- [ML Training talks about gold winning solution in Kaggle Predicting Molecular Properties Competition](https://www.youtube.com/watch?v=BXjSd3OxyDM)
-- [An overview of 2019 year in Kaggle, Talk in Russian at ODS.AI event](https://www.youtube.com/watch?v=LQhlZLTn84g)
-- [Data Halloween: predicting chaotic actions of clients. Talk in Russian at ODS.AI event](https://www.youtube.com/watch?v=hoo-VZ3Rd7Y)
-- [Storytelling with data visualization: case of kaggle kernels. Talk in Russian at Data Fest 2019](https://www.youtube.com/watch?v=fwnHN5Dsivo)
-- [Interview with Kaggle Kernels Grandmaster #1: Artgor | Andrew Lukyanenko. Chai Time Data Science](https://www.youtube.com/watch?v=rpClh8WmTdo) | [player.fm link](https://player.fm/series/chai-time-data-science/interview-with-kaggle-kernels-grandmaster-1-artgor-andrew-lukyanenko)
-- [Kaggle: People, We’ve Gamified Progress](https://www.machinecommons.org/post/kaggle-people-we-ve-gamified-progress)
-
-*2020:*
-- [Andrey Lukyanenko - Handwritten digit recognition w/ a twist & topic modelling over time](https://www.youtube.com/watch?v=PX1RoRD3o7o)
-- [Pair Programming: Deep Learning Model For Drug Classification With Andrey Lukyanenko](https://www.youtube.com/watch?v=VRVit0-0AXE)
-- [DataFest 2020 talk: My Kaggle Story](https://youtu.be/0U2Mj0MDa20)
-- [Overview of approaches to "Mechanisms of Action (MoA) Prediction" competition on Kaggle (3 weeks before the end of the competition)](https://youtu.be/D7i67UT3O3o)
-- [Metro Analysis and Visualization](https://www.youtube.com/watch?v=yxtUnF78bBE&feature=emb_logo&ab_channel=ODSAIGlobal)
-- [Writing reusable pipelines in Deep Learning | Mindhack! Summit](https://www.youtube.com/watch?v=ZBG_lvhQm4g&feature=youtu.be&ab_channel=MindhackSummit)
-- [December Lightning Talks. Training pipeline with Pytorch Lightning and Hydra](https://youtu.be/MjURy6Ow5D8?t=1800)
-
-*2021:*
-- [Podcast talk about Kaggle, modern ML technologies, frameworks, hardware, and many other things](https://www.youtube.com/watch?v=n5aZBEnUHxc&feature=youtu.be&ab_channel=VishwasNarayan)
-- [Building your Data Science Career: how to become a data scientist](https://www.youtube.com/watch?v=-yfN7kMZj9I&feature=youtu.be&ab_channel=SetuChokshi)
-
-
-### My Github and StackOverflow stats
-[![andrey-lukyanenko StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6797250)](https://stackoverflow.com/users/6797250/andrey-lukyanenko) [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=erlemar)](https://github.com/anuraghazra/github-readme-stats)
