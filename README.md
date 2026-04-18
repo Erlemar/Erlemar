@@ -7,7 +7,7 @@
 
 I'm a Machine Learning Engineer at Meta in London. Kaggle Competition Master and Notebook Grandmaster (former #1 global notebook ranking). Google Developer Expert.
 
-Economist by training, I moved into ML in 2017. Since then I've worked on churn, fraud, recommendations, video super-resolution, chat-bots, and ads at scale across telecom, banking, medical AI, ride-hailing, and big tech.
+Economist by ecucation, I moved into ML in 2017. Since then I've worked on churn, fraud, recommendations, video super-resolution, chat-bots, and ads at scale across telecom, banking, medical AI, ride-hailing, and big tech.
 
 - 🌐 Personal site: [andlukyane.com](https://andlukyane.com/) — bio, blog, projects.
 - 📚 ML notes (Obsidian vault): [dswok.com](https://dswok.com/)
