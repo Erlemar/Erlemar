@@ -16,9 +16,9 @@ I'm an economist by education, and I moved into ML in 2017. Since then, I've wor
 
 ### Latest blog posts
 <!-- BLOG:START -->
+- [FIPO: Teaching LLMs Which Thoughts Actually Matter](https://andlukyane.com//blog/paper-review-fipo)
 - [Book Review: Unlocking Data with Generative AI and RAG, Second Edition](https://andlukyane.com//blog/book-review-unlocking-data-genai-rag)
 - [Book Review: A Practical Guide to Reinforcement Learning from Human Feedback](https://andlukyane.com//blog/book-review-rlhf)
 - [Redesigning My Personal Website with Claude Code](https://andlukyane.com//blog/redesigning-my-personal-website)
 - [Collaborative Reinforcement Learning: Why HACRL Trains Models in Teams Instead of Isolation](https://andlukyane.com//blog/paper-review-haclr)
-- [Beyond Positional Bias: How DroPE Unlocks Zero-Shot Long Context in LLMs](https://andlukyane.com//blog/paper-review-drope)
 <!-- BLOG:END -->
