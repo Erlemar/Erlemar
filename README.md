@@ -16,9 +16,9 @@ I'm an economist by education, and I moved into ML in 2017. Since then, I've wor
 
 ### Latest blog posts
 <!-- BLOG:START -->
+- [LocateAnything Explained: Parallel Box Decoding and how it makes visual grounding faster and more precise](https://andlukyane.com/blog/paper-review-locateanything)
 - [MiniMax Sparse Attention: Per-Group Block Selection for Cheap Million-Token Inference](https://andlukyane.com/blog/paper-review-minimax-sparse-attention)
 - [Testing MiniMax M3 on real tasks: repo refactor, screenshot debugging, and Spotify recommendations](https://andlukyane.com/blog/minimax-m3)
 - [Book Review: 50 ML Projects to Understand LLMs](https://andlukyane.com/blog/book-review-50-ml-projects-llms)
 - [Gamma-World: Simplex Agent Encoding and Hub Attention for Multi-Agent World Models](https://andlukyane.com/blog/paper-review-gamma-world)
-- [Testing MiniMax M2.7 via API on three real ML and coding workflows](https://andlukyane.com/blog/minimax-m27-workflows)
 <!-- BLOG:END -->
