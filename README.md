@@ -16,9 +16,9 @@ I'm an economist by education, and I moved into ML in 2017. Since then, I've wor
 
 ### Latest blog posts
 <!-- BLOG:START -->
+- [Book Review: Python for Algorithmic Trading Cookbook](https://andlukyane.com/blog/book-review-python-algorithmic-trading-cookbook)
 - [Harness Handbook: The Missing Layer for Editing AI Agents](https://andlukyane.com/blog/paper-review-harness-handbook)
 - [Book Review: Time Series with PyTorch](https://andlukyane.com/blog/book-review-time-series-pytorch)
 - [Starting and iterating on a Kaggle competition in Google Antigravity](https://andlukyane.com/blog/kaggle-antigravity-s6e7)
 - [Cayley graph search with Claude Code: what puzzle competitions look like in 2026](https://andlukyane.com/blog/cayleypy-kaggle-with-claude)
-- [Book Review: GPU-Accelerated Computing with Python 3 and CUDA](https://andlukyane.com/blog/book-review-gpu-cuda-python)
 <!-- BLOG:END -->
