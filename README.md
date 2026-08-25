@@ -16,9 +16,9 @@ I'm an economist by education, and I moved into ML in 2017. Since then, I've wor
 
 ### Latest blog posts
 <!-- BLOG:START -->
+- [Book Review: Build a DeepSeek Model &lpar;From Scratch&rpar;](https://andlukyane.com/blog/book-review-build-deepseek)
 - [Beyond Bigger MoE: How Kimi K3 Scales Context, Depth, and Agents](https://andlukyane.com/blog/paper-review-kimik3)
 - [Book Review: Python for Algorithmic Trading Cookbook](https://andlukyane.com/blog/book-review-python-algorithmic-trading-cookbook)
 - [Harness Handbook: The Missing Layer for Editing AI Agents](https://andlukyane.com/blog/paper-review-harness-handbook)
 - [Book Review: Time Series with PyTorch](https://andlukyane.com/blog/book-review-time-series-pytorch)
-- [Starting and iterating on a Kaggle competition in Google Antigravity](https://andlukyane.com/blog/kaggle-antigravity-s6e7)
 <!-- BLOG:END -->
