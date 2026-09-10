@@ -16,9 +16,9 @@ I'm an economist by education, and I moved into ML in 2017. Since then, I've wor
 
 ### Latest blog posts
 <!-- BLOG:START -->
+- [How AI agents helped me win a Kaggle silver medal — and how they failed me](https://andlukyane.com/blog/rogii-geosteering-kaggle)
 - [Qwen-Drive 1.0: Turning a General VLM into a Driving Foundation Model](https://andlukyane.com/blog/paper-review-qwendrive)
 - [Are we just a couple steps away from a runaway AI?](https://andlukyane.com/blog/runaway-ai)
 - [Book Review: Build a DeepSeek Model &lpar;From Scratch&rpar;](https://andlukyane.com/blog/book-review-build-deepseek)
 - [Beyond Bigger MoE: How Kimi K3 Scales Context, Depth, and Agents](https://andlukyane.com/blog/paper-review-kimik3)
-- [Book Review: Python for Algorithmic Trading Cookbook](https://andlukyane.com/blog/book-review-python-algorithmic-trading-cookbook)
 <!-- BLOG:END -->
