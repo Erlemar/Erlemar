@@ -16,9 +16,9 @@ I'm an economist by education, and I moved into ML in 2017. Since then, I've wor
 
 ### Latest blog posts
 <!-- BLOG:START -->
+- [Jeva: Rethinking System One Models from First Principles](https://andlukyane.com/blog/paper-review-jeva)
 - [Book Review: Beyond LLMs](https://andlukyane.com/blog/book-review-beyond-llms)
 - [A machine learning roadmap for beginners in 2026](https://andlukyane.com/blog/starting-a-career-in-machine-learning)
 - [DeepSeek-V4.1-Flash: Frontier Agents on a Smaller Memory Budget](https://andlukyane.com/blog/paper-review-deepseek-v41-flash)
 - [How AI agents helped me win a Kaggle silver medal — and how they failed me](https://andlukyane.com/blog/rogii-geosteering-kaggle)
-- [Qwen-Drive 1.0: Turning a General VLM into a Driving Foundation Model](https://andlukyane.com/blog/paper-review-qwendrive)
 <!-- BLOG:END -->
